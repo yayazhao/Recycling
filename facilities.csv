@@ -1,0 +1,398 @@
+ID,County,Waste,Activity,Permit,Name,Status,Address,City,Contact,Phone,lat,lng
+0,Alamance,Medical,Incin,0102-INCIN-M-,"Stericycle, Inc.",Active,1168 Porter Avenue,Haw River,Mr. Kirk Yarbourgh,(336) 380-7440,36.0658156,-79.34906389999999
+1,Alamance,CD,LF,0104-CDLF-1993,Austin Quarter C&D Unit,Active,2701 Austin Quarter Road,Graham,Mr. Richard Hill,(336) 376-0411,35.9390401,-79.2934933
+2,Alamance,MSW,LF,0104-MSWLF-1994,Austin Quarter SWM Facility,Active,2701 Austin Quarter Road,Graham,Mr. Richard Hill,(336) 376-0411,35.9390401,-79.2934933
+3,Alamance,CD,LF,0105-CDLF-1998,Cobles C&D Landfill,Active,5833 Foster Store Road,Liberty,Mrs. Deanna Martin,(336) 264-4894,35.948101,-79.527377
+4,Alamance,LCID,TP,0106-TP-2012,Carolina Resource Recovery LCID T&P Facility,Active,3285 Jones Drive,Mebane,Mr. Steven Scott,(336) 214-7229,36.015983,-79.27439199999999
+5,Alamance,LCID,LF,0107-LCID-2014,Key Properties LCID Landfill,Active,2380 Sandy Cross Rd.,Burlington,"Mr. Clay Moody, Jr.",(336) 380-2458,36.1397196,-79.3576551
+6,Alexander,CD,LF,0201-CDLF-1997,Alexander County CDLF,Active,2500 Paynes Dairy Road,Taylorsville,Mr. Josh Mitchell,(828) 632-1101,35.8386322,-81.1484436
+7,Alexander,MSW,Trans,0202T-TRANSFER-1998,Alexander County Transfer Station,Active,2500 Paynes Dairy rd,Taylorsville,Mr. Josh Mitchell,(828) 632-1101,35.8386322,-81.1484436
+8,Alleghany,MSW,Trans,0303T-TRANSFER-1994,Alleghany County Transfer Facility,Active,419 Osborne Road,Sparta,Ms. Drew Temple,(336) 372-4179,36.492372,-81.1485469
+9,Anson,MSW,LF,0403-MSWLF-2010,Chambers Development MSWLF,Active,375 Dozer Dr,Polkton,Mr. J Tyler Fitzgerald,(704) 690-3240,34.9995594,-80.16895679999999
+10,Anson,TypeIII,Compost,0405-COMPOST-2014,L & L Environmental Services LLC,Active,2323 DIGGS RD.,Wadesboro,Mr. Ronnie Oaks,(704) 294-0230,34.906488,-79.984595
+11,Ashe,MSW,LF,0501-MSWLF-1993,Ashe County Landfill,Active,739 Fred Pugh Road,Cumpler,Mr. Scott Hurley,(336) 846-3721,36.518452,-81.368319
+12,Ashe,HHW,Collection,0502TP-HHW-,Ashe County HHW Facility,Active,311 Dogget RD,West Jefferson,Mr. Brian Houck,(336) 846-3721,36.4125135,-81.4893946
+13,Avery,CD,LF,0603-CDLF-1996,Avery County C&D Landfill,Active,2175 Brushy Creek Rd.,Spruce Pine,Mr. Eric Foster,(828) 737-5420,35.9505751,-82.000799
+14,Avery,MSW,Trans,0603-TRANSFER-,Avery County Transfer Station,Active,2175 Brushy Creek Rd,Spruce Pine,Mr. Eric Foster,(828) 737-5420,35.9505751,-82.000799
+15,Beaufort,MSW,Trans,0703T-TRANSFER-2012,Beaufort Transfer Station,Active,500 Flander Filter Road,Washington,Mr. Nicky Hopkins,(252) 644-3207,35.5937962,-77.11296449999999
+16,Bertie,MSW,LF,0803-MSWLF-1993,East Carolina Environmental Regional Landfill,Active,1922 Republican Road,Aulander,Mr. Michael Kavanaugh,(252) 584-0026,36.115539,-77.064747
+17,Bladen,MSW,Trans,0904T-TRANSFER-1995,Bladen County Transfer Station,Active,1522 Mercer Mill Road,Elizabethtown,Mr. Kip McClary,(910) 872-6320,34.6071469,-78.6030242
+18,Yancey,MSW,Trans,10003T-TRANSFER-1995,Yancey-Mitchell Transfer Station,Active,555 LANDFILL ROAD,Burnsville,Mrs. TERESA SUMMERLIN,(828) 675-4043,35.9304099,-82.1786035
+19,Brunswick,CD,LF,1007-CDLF-1997,Brunswick County CDLF,Active,172 Landfill Rd NE,Bolivia,Ms. Micki Bozeman,(910) 253-2524,34.8601796,-77.9681478
+20,Brunswick,TypeI,Compost,1007-COMPOST-,Brunswick County Compost Facility,Active,172 Landfill Rd NE,Bolivia,Ms. Micki Bozeman,(910) 253-2524,34.8601796,-77.9681478
+21,Brunswick,MSW,Trans,1010T-TRANSFER-1997,Brunswick County Transfer Station,Active,172 Landfill Rd NE,Bolivia,Ms. Micki Bozeman,(910) 253-2524,34.8601796,-77.9681478
+22,Brunswick,LCID,LF,10E-LCID-1993,Brunswick County LCID Landfill,Active,172 Landfill Rd NE,Bolivia,Ms. Micki Bozeman,(910) 253-2524,34.8601796,-77.9681478
+23,Buncombe,MSW,Trans,1104-TRANSFER-1993,Waste Management Of Asheville,Active,24 Pond Rd,Asheville,Mr. James Harris,(828) 210-1131,35.5484105,-82.6026894
+24,Buncombe,CD,LF,1107-CDLF-1998,Buncombe County C&D Unit,Active,81 Panther Branch Road,Alexander,Mr. Dane Pedersen,(828) 250-5460,35.7288362,-82.6360443
+25,Buncombe,MSW,LF,1107-MSWLF-1996,Buncombe County MSW Landfill,Active,81 Panther Branch Road,Alexander,Mr. Dane Pedersen,(828) 250-5460,35.7288362,-82.6360443
+26,Buncombe,MSW,Trans,1108T-TRANSFER-1996,Buncombe County Transfer Station,Active,190 Hominy Creek Road,Asheville,Mr. Dane Pedersen,(828) 250-5460,35.5570841,-82.5940327
+27,Buncombe,TypeI,Compost,1109-COMPOST-,Hensons' Inc. Mulch & More Asheville,Active,116 Pond Rd.,Asheville,Mr. Randy Flynn,(828) 859-5836,35.5443443,-82.6058887
+28,Buncombe,LCID,TP,1111-TP-,Riverside Stump Dump at Asheville,Active,620 Riverside Drive,Asheville,Mrs. Clara Ray,(828) 258-7339,35.607191,-82.5777205
+29,Buncombe,MatRecovery,Trans,1114-TRANSFER-2009,Handle Safe Systems Transfer Facility,Active,432 Old Leicester Hwy,Asheville,Mr. Mike Griffin,(828) 273-9544,35.6320232,-82.6197396
+30,Buncombe,TypeIII,Compost,1115-COMPOST-2009,Warren Wilson College,Active,701 Warren Wilson Road,Swannanoa,Mrs. Megan Davis,(828) 771-2014,35.6114087,-82.4414224
+31,Buncombe,TypeIII,Compost,1118-COMPOST-2016,"Danny's Dumpster, Inc.",Active,120 Hardesty Lane,Asheville,Mr. Danny Keaton,(828) 380-9094,35.5733998,-82.4869823
+32,Buncombe,Indus,LF,1119-INDUS-2020,Duke Energy Progress - Asheville,Active,46 Duke Energy Lane,Arden,Ms. Bryson Allison,(980) 373-6636,35.4670682,-82.5417719
+33,Burke,CD,LF,1203-CDLF-2014,Burke County Johns River Waste Management,Active,2500 Marsh Trail,Morganton,Mr. Miles Champion,(828) 764-9064,35.78525,-81.645287
+34,Burke,MSW,Trans,1205T-TRANSFER-1998,Burke County Transfer Facility,Active,2500 Marsh Trail,Morganton,Mr. Miles Champion,(828) 764-9064,35.78525,-81.645287
+35,Cabarrus,CD,LF,1302-CDLF-2006,Cabarrus County CDLF,Active,4441 Irish Potato Rd,Concord,Mr. Kevin Grant,(704) 920-3209,35.476934,-80.51762389999999
+36,Cabarrus,TypeI,Compost,1302-COMPOST-2013,Cabarrus County Organics Reclamation Facility,Active,4441 Irish Potato Rd,Concord,Mr. Kevin Grant,(704) 920-3209,35.476934,-80.51762389999999
+37,Cabarrus,Tire,LF,1303-TIRELF-1988,US Tire Recycling Partners LP,Active,6322 Poplar Tent Rd,Concord,Mr. Gene Helton,(704) 784-1210,35.4072133,-80.67854129999999
+38,Cabarrus,MSW,LF,1304-MSWLF-1992,BFI-Charlotte Mtr Speedway Landfill V,Active,5105 Morehead Rd,Concord,Mr. Rob LaTourette,(704) 712-8560,35.345295,-80.68204
+39,Cabarrus,Medical,TP,1305TP-TP-,Stericycle,Active,4403 Republic Court,Concord,Mr. Steve Elliott,(803) 730-1876,35.4185644,-80.6516599
+40,Cabarrus,CD,LF,1306-CDLF-2000,Highway 49 C&D Landfill & Recycling Greenway Waste,Active,2105 Speedrail Rd,Concord,Mr. Andrew Burris,(704) 201-5944,35.3378513,-80.6145468
+41,Cabarrus,LCID,TP,1306-COMPOST-2019,Highway 49 C&D Landfill & Recycling Greenway Waste,Active,2105 Speedrail Dr.,Concord,Mr. Andrew Burris,(704) 201-5944,35.3378513,-80.6145468
+42,Cabarrus,LCID,TP,1306-TP-2019,Highway 49 C&D Landfill & Recycling Greenway Waste,Active,2105 Speedrail Rd,Concord,Mr. Andrew Burris,(704) 201-5944,35.3378513,-80.6145468
+43,Cabarrus,LCID,LF,1307-LCID-2009,"Tarheel Bark Company - A Division of Garick, LLC",Active,8829 rocky river rd,harrisburg,Mrs. Michelle Sanderson,(704) 456-8269,35.291357,-80.63715400000001
+44,Cabarrus,LCID,TP,1307-TP-2009,Tarheel Bark Company - A Division of Garick LLC,Active,8829 Rocky river rd,harrisburg,Mrs. Michelle Sanderson,(704) 456-8263,35.291357,-80.63715400000001
+45,Cabarrus,HHW,Collection,1308-HHW-,Cabarrus County HHW Collection Facility,Active,246 General Services Drive SW,Concord,Mr. Kevin Grant,(704) 920-3209,35.372947,-80.5637849
+46,Cabarrus,Tire,TP,1310-TIRETP-2012,US Tire Recycling Partners LP,Active,6322 Poplar Tent Rd,Concord,Mr. Gene Helton,(704) 784-1210,35.4072133,-80.67854129999999
+47,Cabarrus,LCID,LF,13F-LCID-2013,Morehead LCID Landfill,Active,5001 Morehead Road,Concord,Mr. Doug Foster,(704) 361-1218,35.345045,-80.68220699999999
+48,Caldwell,MSW,LF,1403-MSWLF-1998,Foothills Environmental Landfill,Active,2800 CHERAW RD,Lenoir,Mr. STEPHEN HUNTER,(828) 394-3133,35.9153189,-81.5952409
+49,Carteret,MSW,Trans,1604-TRANSFER-1993,CRSWMA-Carteret County Transfer Station,Active,800 Hibbs Road,Newport,Mr. Bobby Darden,(252) 633-1564,34.7553005,-76.8757432
+50,Catawba,CD,LF,1803-CDLF-,Blackburn Resource Recovery C&D Facility,Active,3993 Rocky Ford Road,Newton,Mr. Rodney Hamby,(704) 462-1348,35.6080013,-81.3116376
+51,Catawba,TypeI,Compost,1803-COMPOST-,Blackburn Resource Recovery Composting Facility,Active,3993 Rocky Ford Road,Newton,Mr. Rodney Hamby,(704) 462-1348,35.6080013,-81.3116376
+52,Catawba,MSW,LF,1803-MSWLF-1997,Blackburn Resource Recovery Landfill Facility,Active,3993 Rocky Ford Road,Newton,Mr. Rodney Hamby,(704) 462-1348,35.6080013,-81.3116376
+53,Catawba,LCID,TP,1803-TP-,Blackburn Resource Recovery T&P Facility,Active,3993 Rocky Ford Road,Newton,Mr. Rodney Hamby,(704) 462-1348,35.6080013,-81.3116376
+54,Catawba,MSW,Trans,1805-TRANSFER-2001,GDS Recycling Services,Active,130 SOMERSET DRIVE NW,Conover,Mrs. LADONNA BOLTON,(828) 419-3031,35.7240938,-81.2509051
+55,Catawba,TypeI,Compost,1806-COMPOST-,"Hickory, City of Compost Facility",Active,909 Cloninger Mill Rd,Hickory,Mr. Andrew Ballentine,(828) 323-7439,35.7866662,-81.30093509999999
+56,Catawba,MSW,Trans,1808T-TRANSFER-,"Hickory, City of Transfer Station",Active,1050 1st Ave SW,Hickory,Mr. Andrew Ballentine,(828) 323-7439,35.731086,-81.35578199999999
+57,Catawba,Indus,LF,1809-INDUS-2006,Duke Energy Carolinas-Marshall FGD,Active,8320 East Highway 150,Terrell,Mrs. Tyler Hardin,(980) 373-5697,35.5936415,-80.96584659999999
+58,Catawba,Indus,LF,1812-INDUS-2008,"Duke Energy Carolinas - Marshall, Industrial",Active,8320 East Highway 150,Terrell,Mrs. Tyler Hardin,(980) 373-5697,35.5936415,-80.96584659999999
+59,Chatham,MSW,Trans,1903T-TRANSFER-1993,Waste Man. - Chatham Co Transfer Station,Active,361 Waste Treatment Plant Rd,Siler City,Mr. Travis McClung,(919) 405-1497,35.7304951,-79.4281475
+60,Chatham,HHW,Collection,1904TP-HHW-,Chatham Co HHW Collection Facility,Active,39 County Services Road,Pittsboro,Ms. Shannon Culpepper,(919) 545-7874,35.741919,-79.26305289999999
+61,Chatham,TypeIII,Compost,1905-COMPOST-,Dean Brooks Farm,Active,1193 Beal Road,Goldston,Mrs. Amy Fulford,(919) 842-6063,35.5461623,-79.3689071
+62,Chatham,TypeIV,Compost,1906-COMPOST-,McGill - Merry Oaks Compost Facility,Active,634 Christian Chapel Church Road,New Hill,Mrs. Misti Godwin,(919) 770-4416,35.6347434,-79.00726619999999
+63,Chatham,LCID,LF,1909-LCID-2010,Stone Landfill LCID,Active,52 Rock Hill Drive,Chapel Hill,Mr. Alan Stone,(919) 971-0918,35.8017271,-79.0318173
+64,Chatham,CCR,SF,1910-STRUC-2015,Brickhaven No. 2,Active,1271 Moncure-Flatwood Road,Moncure,Mr. Tom Flannagan,(502) 709-3273,35.5945895,-79.0107507
+65,Chatham,CD,TP,1912-TP-2020,Pinnacle Waste Goldson Facility,Active,67 Gulf Rd.,Goldston,Mr. Bobby Branch,(919) 708-8465,35.5634375,-79.2887263
+66,Cherokee,MSW,LF,2002-MSWLF-1998,Cherokee County MSW Facility,Active,75 Peachtree St,Murphy,Mr. ROBERT WARD,(828) 837-2621,35.086994,-84.032853
+67,Chowan,MSW,Trans,2101T-TRANSFER-2001,"Edenton, Town of Transfer Station",Active,118 W. Hicks St.,Edenton,Mr. Corey Gooden,(252) 482-4111,36.0676994,-76.6082811
+68,Chowan,TypeII,Compost,2102-COMPOST-2015,Good Earth Horticulture,Active,2116 B Bio comp drive,"Edenton,",Mr. R V Knight,(252) 482-8528,36.021208,-76.5535544
+69,Clay,MSW,Trans,2202T-TRANSFER-1997,Clay County Transfer Station,Active,1160 Hinton Center Rd.,Hayesville,Mr. Kevin Shaheen,(828) 389-9133,35.03014599999999,-83.7847929
+70,Cleveland,CD,LF,2301-CDLF-1997,Cleveland County CDLF,Active,1607 AIRPORT RD,Shelby,Mr. NATHAN MCNEILLY,(704) 447-8204,35.3262915,-81.484203
+71,Cleveland,MSW,LF,2301-MSWLF-2009,Cleveland County Landfill SeLF,Active,250 FIELDING RD,Cherryville,Mr. NATHAN MCNEILLY,(704) 447-8204,35.3413366,-81.46815629999999
+72,Columbus,LCID,LF,2401-LCID-2000,Columbus County Landfill,Active,107 Landfill Road,Whiteville,Mrs. Amanda Davis,(910) 234-1417,34.289712,-78.751679
+73,Columbus,Indus,LF,2402-INDUS-2005,International Paper,Active,865 John L Riegel Road,Riegelwood,Mr. TIm Gill,(910) 362-4934,34.3536779,-78.2127818
+74,Columbus,MSW,Trans,2403T-TRANSFER-1997,Columbus County Transfer Station,Active,107 Landfill Road,Whiteville,Mrs. Amanda Davis,(910) 234-1417,34.289712,-78.751679
+75,Columbus,CD,TP,2404-TRANSFER-2020,Big D T&P Facility,Active,1535 Old 87 Road,Delco,Mr. Donald Grainger,(843) 340-8815,34.3120933,-78.2074922
+76,Craven,TypeI,Compost,2506-COMPOST-1991,New Bern Yard Waste Facility,Active,1803 Country Club Road,New Bern,Mr. David Cox,(252) 637-7310,35.0976386,-77.0614205
+77,Craven,MSW,LF,2509-MSWLF-1999,CRSWMA - Long Term Regional Landfill,Active,7400 Old Highway 70 West,New Bern,Mr. Bobby Darden,(252) 633-1564,35.1634758,-77.227524
+78,Craven,MSW,Trans,2510T-TRANSFER-1997,Cherry Point Transfer Station,Active,100 Mockingbird Hill Bldg 4185,MCAS Cherry Point,Mr. Nathan Arnett,(252) 466-5271,34.883318,-76.9062
+79,Craven,TypeI,Compost,2511-COMPOST-2000,CRSWMA Composting Facility,Active,7400 Old U.S. Hwy 70 W.,New Bern,Mr. Bobby Darden,(252) 633-1564,35.1634758,-77.227524
+80,Craven,LCID,LF,2513-LCID-2013,Craven LCID Landfill,Active,415 Streets Ferry Rd.,Vanceboro,Mr. Terry Morris,(252) 670-6749,35.28941560000001,-77.15262969999999
+81,Craven,TypeIII,Compost,2514-COMPOST-2014,Craven Ag Service Compost Facility,Active,2115 Hwy 55 West,New Bern,Mr. John Dunham,(252) 633-5334,35.1670215,-77.1620099
+82,Craven,LCID,LF,25B-LCID-,Cherry Point LCID,Active,Environmental Affairs Department,MCAS Cherry Point,Mr. Nathan Arnett,(252) 466-5271,34.883318,-76.9062
+83,Craven,LCID,LF,25I-LCID-,Cieszko LCID,Active,1090 NC Hwy 101,Havelock,Mr. Martin Cieszko,(252) 447-2096,34.876009,-76.85128
+84,Cumberland,CD,LF,2601-CDLF-1997,Cumberland County C&D Unit,Active,698 Ann Street,Fayetteville,Ms. Amanda Bader,(910) 438-4041,35.0623009,-78.8717368
+85,Cumberland,MSW,LF,2601-MSWLF-1997,Cumberland County Landfill,Active,698 Ann Street,Fayetteville,Ms. Amanda Bader,(910) 438-4041,35.0623009,-78.8717368
+86,Cumberland,MSW,Trans,2606T-TRANSFER-1998,Fort Bragg Transfer Station,Active,Building # O-3454,Fort Bragg,Mr. Shawn Hardy,(910) 396-2295,35.1414552,-79.0079949
+87,Cumberland,MSW,Trans,2609-TRANSFER-,Fort Bragg Transfer Station,Active,583 Winslow Street,Fayetteville,Mr. LeRoy Hatmaker,(910) 237-2825,35.0453178,-78.8892588
+88,Cumberland,TypeI,Compost,2610-COMPOST-2011,Wilkes Road Yard Waste Facility,Active,771 Wilkes Road,Fayetteville,Ms. Amanda Bader,(919) 438-4041,35.026288,-78.8707249
+89,Cumberland,LCID,LF,2612-LCID-2008,Highland LCID Landfill,Active,6020 Murchison Rd.,Fayetteville,Mr. Steve Waters,(910) 978-2412,35.1186153,-78.93295979999999
+90,Cumberland,CD,Trans,2613-TRANSFER-2010,AAA Hauling Of NC Inc,Active,1171 S Eastern Blvd,Fayetteville,Mr. Kenneth Hardin,(910) 321-6037,35.0275171,-78.8842181
+91,Cumberland,HHW,Collection,26FH-HHW-,Cumberland Co HHW Collection Facility,Active,823 Wilkes Road,Fayetteville,Ms. Amanda Bader,(910) 438-4041,35.0245212,-78.87183569999999
+92,Cumberland,LCID,LF,26K-LCID-,Doc Bennett LCID Landfill,Active,Sandy Run Rd.,Fayetteville,Mr. Steve Waters,(910) 978-2412,34.9635184,-78.86232179999999
+93,Cumberland,LCID,LF,26L-LCID-,Snow Hill LCID Landfill,Active,Claude Lee Road,Fayetteville,"Mr. Jerald F. McDonald, Jr.",(910) 630-2200,34.9825609,-78.8903256
+94,Cumberland,LCID,LF,26M-LCID-2012,"Autry Grading, Inc., LCID Landfill",Active,5124 US Hwy 301 S,Hope Mills,Mr. Kenneth Autry,(910) 424-3458,34.9484317,-78.9294756
+95,Currituck,MSW,Trans,2703T-TRANSFER-1996,Currituck Transfer Station,Active,153 Courthouse Road Suite 302,Currituck,Mr. Leighton Earwood,(252) 232-2504,36.4499012,-76.01632
+96,Currituck,CD,Trans,2705T-TRANSFER-2011,Soundside C&D Waste Transfer & Recycling Center,Active,7565 Caratoke Hwy,Jarvisburg,Ms. Kim Newbern,(252) 491-8666,36.1690518,-75.8597272
+97,Currituck,CD,Trans,2706-TRANSFER-2013,"Bay Disposal, LLC",Active,8546 Caratoke Hwy,Powells Point,Mr. Joshua Smaltz,(757) 355-1591,36.1098373,-75.82518259999999
+98,Dare,CD,LF,2803-CDLF-1995,Dare County C&D Landfill,Active,1603 Cub Rd,Manns Harbor,Mr. Jonathan DeWeese,(252) 473-2059,35.8312955,-75.81817710000001
+99,Dare,MSW,Trans,2805T-TRANSFER-,Dare County Transfer Station,Active,1603 Cub Rd,Manns Harbor,Mr. Jonathan DeWeese,(252) 473-2059,35.8312955,-75.81817710000001
+100,Davidson,HHW,Collection,2906-HHW-,Davidson County HHW,Active,220 Davidson County Landfill Road,Lexington,Mr. Charlie Brushwood,(336) 240-0303,35.8371961,-80.1710635
+101,Davidson,MSW,LF,2906-MSWLF-2008,Davidson County MSW Lined Landfill,Active,1160 Old Hwy 29,Thomasville,Mr. Charlie Brushwood,(336) 240-0303,35.8527991,-80.17776330000001
+102,Davidson,MSW,Trans,2906-TRANSFER-2013,Davidson County Transfer Facility,Active,1242 Old Highway 29,Thomasville,Mr. Charlie Brushwood,(336) 240-0303,35.852307,-80.176552
+103,Davidson,TypeI,TP,2908-TP-,"Todco, Inc. Wood Recycling",Active,1123 Roy Lopp Rd,Lexington,Mr. Todd Warfford,(336) 248-2001,35.830315,-80.1747182
+104,Davidson,CD,Trans,2908-TRANSFER-2013,"Todco, Inc. - C&D Transfer",Active,1123 Roy Lopp Rd.,Lexington,Mr. Todd Warfford,(336) 248-2001,35.830315,-80.1747182
+105,Davidson,LCID,LF,2909-LCID-2013,"Veach Landfill, L.L.C.",Active,4261 Old Thomasville Rd,Winston Salem,Mr. Michael Phillips,(336) 462-3643,35.979548,-80.189527
+106,Davie,TypeIII,Compost,3004-COMPOST-2014,Davie County Compost Facility,Active,221 Wallace Fam Lane,Advance,Mr. Eric Wallace,(704) 875-2975,35.9791135,-80.50261309999999
+107,Davie,TypeIII,Compost,3005-COMPOST-2014,Gallins Family Farm,Active,222 Rocky Dale Lane,Mocksville,Mrs. Lyndsy Gallins,(336) 448-9494,35.973268,-80.53904
+108,Duplin,MSW,Trans,3103-TRANSFER-2007,Duplin County Transfer Station,Active,325 Landfill Road,Rose Hill,Mr. Derrel Whaley,(910) 289-3091,34.8595511,-77.97998559999999
+109,Duplin,LCID,LF,31B-LCID-2000,Duplin County LCID Landfill,Active,325 Landfill Road,Rose Hill,Mrs. Joy Pickett,(910) 289-3091,34.8595511,-77.97998559999999
+110,Durham,TypeI,Compost,3204-COMPOST-1991,Durham Compost Facility,Active,2115 E. Club Blvd,Durham,Mr. Dan Parker,(919) 560-4186,36.0263287,-78.857219
+111,Durham,HHW,Collection,3212-HHW-2014,Durham City of HHW,Active,2115 E. Club Blvd,Durham,Mr. Dan Parker,(919) 560-4186,36.0263287,-78.857219
+112,Durham,MSW,Trans,3212-TRANSFER-2014,"Durham, City of Transfer Station",Active,2115 E. Club Blvd,Durham,Mr. Dan Parker,(919) 560-4186,36.0263287,-78.857219
+113,Durham,MSW,Trans,3214T-TRANSFER-2001,Stone Park Court Transfer Station,Active,210 Stone Park Ct.,Durham,Mr. William Davidson,(919) 596-1363,35.9502491,-78.85580329999999
+114,Durham,TypeIII,Compost,3216-COMPOST-2017,"New Soil Vermiculture, LLC",Active,314 Latta Road,Durham,Mr. Garry Lipscomb,(202) 374-0403,36.0777532,-78.9198985
+115,Durham,CD,TP,3217-MWP-2019,Elite Waste Services Holman MWP Facility,Active,201 S. Holman St.,Durham,Mr. Gary Getty,(321) 441-5977,35.9857136,-78.8875302
+116,Durham,LCID,LF,32F-LCID-,Fogleman and Fogleman Landfill & Recycling Facility,Active,4005 Intermere Road,Durham,Mrs. Linda Fogleman,(919) 682-0068,36.0494419,-78.81290469999999
+117,Durham,LCID,LF,32I-LCID-,Currin Landfill #2,Active,1810 Coley Road,Durham,Mr. Glenn Currin,(919) 876-1138,35.968941,-78.74203
+118,Durham,LCID,LF,32J-LCID-1999,Waste Industries- Stone Park Ct. LCID LF,Active,208 Stone Park Ct,Durham,Mr. Donald Plessinger,(919) 557-9583,35.9502491,-78.85580329999999
+119,Edgecombe,CD,LF,3301-CDLF-1997,Edgecombe County CDLF,Active,2872 Colonial Road,Tarboro,Ms. Gloria Moseley,(258) 827-4253,35.8221102,-77.5632476
+120,Edgecombe,MSW,Trans,3302T-TRANSFER-1998,Edgecombe County Transfer Station,Active,2872 Colonial Rd,Tarboro,Ms. Gloria Moseley,(252) 827-4253,35.8221102,-77.5632476
+121,Edgecombe,TypeIV,Compost,3303-COMPOST-2010,"Eastern Compost, LLC",Active,8487 Battleboro-Leggett Road,Battleboro,Mrs. Jean Smith,(252) 446-2536,36.0391033,-77.7414314
+122,Edgecombe,LCID,LF,33F-LCID-,Barnhill Contracting LCID Landfill,Active,10826 NC 97,Rocky Mount,Mr. Brent Caudle,(252) 904-3358,35.9781158,-77.7492608
+123,Edgecombe,LCID,LF,33G-LCID-,"Rocky Mount , City of LCID Landfill",Active,3873 Old Battleboro Road,Rocky Mount,Mr. Chris Pridgen,(252) 467-4909,35.9989519,-77.75351409999999
+124,Forsyth,MSW,LF,3402-MSWLF-1997,Hanes Mill Road Landfill,Active,325 West Hanes Mill Road,Winston-Salem,Mrs. Janis McHargue,(336) 747-7310,36.188006,-80.28243690000001
+125,Forsyth,YW,TP,3409-TP-,Overdale Yard Waste Facility,Active,4010 Old Milwaukee Lane,Winston-Salem,Mrs. Janis NcHargue,(336) 747-7310,36.0381357,-80.2239756
+126,Forsyth,CD,LF,3412-CDLF-1995,"Winston-Salem, City of Old Salisbury Road CDLF",Active,3336 Old Salisbury Road,Winston-Salem,Mrs. Janis McHargue,(336) 747-7310,35.997859,-80.27011999999999
+127,Forsyth,HHW,Collection,3415-HHW-2010,"Resource Recovery And Reduction, Co.",Active,"1401 S. MLK, Jr. Drive",Winston-Salem,Ms. Michele Sakwa,(336) 784-4300,36.0803749,-80.2198714
+128,Forsyth,MSW,Trans,3416T-TRANSFER-,Overdale Road Transfer Station,Active,5000 Overdale Road,Winston-Salem,Mr. Carldelle Patrick,(336) 714-4301,36.0332214,-80.232095
+129,Forsyth,LCID,TP,3419-TP-,"Lowder Recycling And Disposal, LLC",Active,2810 GRIFFITH RD,WINSTON SALEM,Mr. MATT ALSPAUGH,(336) 760-0477,36.0375446,-80.3133424
+130,Forsyth,Indus,TP,3420-INDUS-2005,OmniSource Southeast,Active,2233 Wal-Pat Rd,Smithfield,Mr. James Winegar,(919) 796-3023,35.481267,-78.365974
+131,Forsyth,TypeIII,Compost,3421-COMPOST-2010,Dixie Classic Fairgrounds,Active,421 west 27th street,Winston Salem,Mr. David Smith,(336) 409-4881,36.1279412,-80.2538132
+132,Forsyth,LCID,TP,3422-TP-,Slater Industries Treatment and Processing Facility,Active,945 Valley Stream Road,Winston-Salem,Mr. Joe Slater,(336) 416-6097,36.0822807,-80.3674935
+133,Forsyth,TypeI,Compost,3423-COMPOST-,"Winston-Salem, City of Compost",Active,180 North Star Drive,Rural Hall,Ms. Janis McHargue,(336) 747-7310,36.206981,-80.28871199999999
+134,Forsyth,CD,Trans,3424-TRANSFER-2010,"Abbey Green, Inc",Active,5030 Overdale Rd.,Winston Salem,Mr. Ronald Petty,(336) 207-6052,36.0323363,-80.2341656
+135,Forsyth,YW,TP,3425-TP-2011,"Winston-Salem, City of Treatment & Processing Site",Active,3 W. 32nd Street,Winston-Salem,Mr. Tobias Mack,(336) 734-1490,36.132394,-80.2450046
+136,Forsyth,TypeI,Compost,3427-COMPOST-2015,Piney Hill Acres Large Type 1 Compost Unit,Active,2020 Piney Grove Rd.,Kernersville,Mr. David Lawson,(336) 682-2317,36.1734517,-80.05900950000002
+137,Forsyth,LCID,LF,34AA-LCID-,Piney Hill Acres LCID Landfill,Active,2020 Piney Grove Rd.,Kernersville,Mr. David Lawson,(336) 682-2317,36.1734517,-80.05900950000002
+138,Franklin,MSW,Trans,3503-TRANSFER-,Franklin County Transfer Station,Active,32 Landfill Road,Franklinton,"Mr. Lee Bodenhamer, III",(919) 340-4670,36.0556753,-78.376391
+139,Franklin,LCID,LF,3505-LCID-2020,Wall Recycling,Active,2095 US-1,Franklinton,Mr. Dan Jarboe,(919) 906-2747,36.066874,-78.486555
+140,Franklin,CD,MatRecovery,3505-MWP-2020,Wall Recycling,Active,2095 US-1,Franklinton,Mr. Dan Jarboe,(919) 906-2747,36.066874,-78.486555
+141,Franklin,CD,TP,3505-TP-2020,Wall Recycling,Active,2095 US-1,Franklinton,Mr. Dan Jarboe,(919) 906-2747,36.066874,-78.486555
+142,Franklin,TypeIII,Compost,3506-COMPOST-2012,David Brantley & Sons Compost Facility,Active,154 Green House Dr,Zebulon,Mr. Eric Vance Reynolds JR,(978) 209-2966,35.9263095,-78.2561801
+143,Franklin,Tire,TP,3507-TIRETP-2016,"PRTI, INC.",Active,2105 US 1 HWY,Franklinton,Mr. Scott Clagett,(919) 272-4414,36.0647307,-78.48646649999999
+144,Gaston,CD,LF,3606-CDLF-1995,Gaston County C&D Landfill,Active,3155 Philadelphia Church Road,Dallas,Mr. Ray Maxwell,(704) 862-7551,35.388153,-81.17245659999999
+145,Gaston,MSW,LF,3606-MSWLF-1997,Gaston County Landfill,Active,3155 Philadelphia Church Road,Dallas,Mr. Ray Maxwell,(704) 862-7551,35.388153,-81.17245659999999
+146,Gaston,MSW,Trans,3608-TRANSFER-1993,Waste Management Of Carolinas,Active,2712 Lowell Rd,Gastonia,Mr. Dustin Maxwell,(704) 869-7663,35.280427,-81.1192951
+147,Gaston,HHW,Collection,3609TP-HHW-,Gaston County HHW Collection Facility,Active,120 Leisure Lane,Dallas,Mrs. Marcie Smith,(704) 922-0267,35.3134115,-81.1993202
+148,Gaston,Indus,LF,3612-INDUS-2008,Duke Energy Carolinas - Allen,Active,253 Plant Allen Road,Belmont,Ms. Courtney Murphy,(704) 382-7171,35.1899259,-81.0090336
+149,Gaston,TypeIII,Compost,3613-COMPOST-2017,Earth Farms Organics,Active,351 Colt Thornburg Road,Dallas,Mr. William Cozart,(704) 280-4005,35.3571272,-81.17483229999999
+150,Gaston,TypeI,Compost,3614-COMPOST-2011,Gastonia Compost,Active,PO Box 1748,GASTONIA,Mr. Wayne Hendrickson,(704) 214-9086,35.262082,-81.18730049999999
+151,Gaston,Medical,TP,3615-TP-2018,Trilogy MedWaste Southeast LLC,Active,148 Boxwood Lane,Gastonia,Mr. Jerry Norris,(704) 503-8134,35.2816537,-81.1822427
+152,Gaston,Medical,TP,3617-MWP-2016,"Daniels Sharpsmart, Inc.",Active,1851 Chespark Dr.,Gastonia,Mr. Daniel Weaver,(704) 842-7103,35.2884669,-81.21961019999999
+153,Gaston,LCID,LF,36A-LCID-2010,Old 27 LCID Landfill,Active,130 Tate st,Mt Holly,Mr. Dwayne McCORKLE,(704) 718-6386,35.3251909,-81.0269289
+154,Graham,MSW,Trans,3803-TRANSFER-,Graham County Transfer Station,Active,400 Snowbird Rd.,Robbinsville,Mr. Gavin Colvard,(828) 479-9369,35.313988,-83.81429899999999
+155,Granville,MSW,LF,3901-MSWLF-2012,Oxford Subtitle D MSWLF,Active,6584 Landfill Road,Oxford,Mr. Jason Falls,(919) 691-0928,36.3699133,-78.6233848
+156,Granville,YW,TP,3903TP-TP-2009,John Bryan Yard Waste Recycling,Active,3092 Sam Usry Rd,Oxford,Mr. John Bryan,(919) 690-2640,36.214032,-78.6122759
+157,Greene,CD,LF,4002-CDLF-1997,Greene County CDLF,Active,105 landfill rd,Walstonburg,Mr. David Jones,(252) 747-5720,35.5251592,-77.6951931
+158,Guilford,CD,LF,4103-CDLF-1998,"Greensboro, City of White Street Landfill",Active,2503 White Street,Greensboro,Mr. Richard Lovett,(336) 373-4188,36.1082799,-79.73120229999999
+159,Guilford,TypeI,Compost,4103-COMPOST-2003,"Greensboro, City of Compost Facility",Active,2503 White Street,Greensboro,Mr. Richard Lovett,(336) 373-4188,36.1082799,-79.73120229999999
+160,Guilford,MSW,LF,4104-MSWLF-1991,"High Point, City of MSW Landfill",Active,3940 Kivett Dr,High Point,Mr. Mike Spencer,(336) 688-3454,35.9546247,-79.93186229999999
+161,Guilford,TypeI,Compost,4110-COMPOST-,Ingleside Compost Facility,Active,3001 Ingleside Dr,High Point,Mr. Michael Spencer,(336) 688-3454,35.99717589999999,-80.038276
+162,Guilford,MSW,LF,4112-MSWLF-1997,"Greensboro, City of White Street Landfill",Active,2503 White Street,Greensboro,Mr. David Deel,(336) 373-4188,36.1082799,-79.73120229999999
+163,Guilford,CD,LF,4116-CDLF-2012,"WI-High Point Landfill, LLC, a wholly owned subsidiary of Waste Industries USA, LLC.",Active,5830 Riverdale Dr,Jamestown,Mr. Seth Heath,(336) 668-3712,35.9517968,-79.9228072
+164,Guilford,MatRecovery,TP,4116-MWP-2012,High Point C&D Waste Reclamation,Active,5830 Riverdale Dr.,Jamestown,Mr. Seth Heath,(336) 668-3712,35.9517968,-79.9228072
+165,Guilford,CD,LF,4117-CDLF-2008,A-1 Sandrock C&D Landfill,Active,2091 Bishop Road,Greensboro,Mr. Jason Tarkenton,(336) 382-9707,35.993351,-79.8441529
+166,Guilford,MSW,Trans,4118T-TRANSFER-,Bishop Road Transfer Station,Active,2140 Bishop Road,Greensboro,Mr. Carldelle Patrick,(336) 997-8342,35.9927409,-79.853132
+167,Guilford,Tire,TP,4119TP-TIRETP-,Guilford Cty Scrap Tire & White Goods Collection Facility,Active,2138 Bishop Road,Greensboro,Mr. Clyde Harding,(336) 641-3792,35.9938167,-79.854401
+168,Guilford,MSW,Trans,4120T-TRANSFER-,"Greensboro, City of Transfer Station",Active,6310 Burnt Poplar Road,Greensboro,Mr. Richard Lovett,(336) 373-4188,36.0739692,-79.9210805
+169,Guilford,CD,Trans,4122T-TRANSFER-2012,WI Burnt Poplar Transfer LLC,Active,6313 Burnt Poplar Rd,Greensboro,Mr. Seth Heath,(336) 668-3712,36.0709349,-79.9255227
+170,Guilford,LCID,LF,41I-LCID-,"Winfree Road Landfill, Inc.",Active,7965 Winfree Rd,Summerfield,Mr. Tim Friddle,(336) 643-3791,36.226377,-79.908096
+171,Guilford,LCID,LF,41J-LCID-2010,"Heritage Farm Properties, LLC LCID Landfill",Active,2124 Scalesville Road,Summerfield,Mr. Gary Swing,(336) 681-3300,36.2167265,-79.88955349999999
+172,Guilford,LCID,LF,41O-LCID-,Doggett Construction Company,Active,2075 Bishop Road,Greensboro,Mr. Gary Swing,(336) 681-3300,35.9938169,-79.8417389
+173,Guilford,LCID,LF,41P-LCID-,Fryar Grading and Hauling LCID Landfill,Active,5233 McLeansville Rd.,McLeansville,Mr. Robert R. Fryar Jr,(336) 382-7462,36.094901,-79.6766749
+174,Guilford,LCID,LF,41R-LCID-2011,Viewmont Sandrock Mine And Landfill,Active,4052 Viewmont Road,Greensboro,Mr. Jay Nivens,(704) 409-1475,35.9982567,-79.84676979999999
+175,Guilford,LCID,LF,41S-LCID-,"D & D Grading, Inc. ",Active,4111 Rankin Mill Road,McLeansville,Mr. David Dick,(336) 621-4021,36.1526802,-79.71046849999999
+176,Halifax,CD,LF,4204-CDLF-2013,Halifax County Landfill,Active,921 Liles Rd.,Littleton,Mr. Ed Stanfield,(252) 586-7516,36.3791383,-77.8147773
+177,Halifax,MSW,Trans,4204-TRANSFER-2013,Halifax County Landfill,Active,921 Liles Rd.,Littleton,Mr. Ed Stanfield,(252) 586-7516,36.3791383,-77.8147773
+178,Halifax,MSW,Trans,4205T-TRANSFER-1997,"Weldon, Town of Transfer Facility",Active,2211 Hwy 301 North,Halifax,Mr. Chris Williams,(252) 536-2011,35.7310716,-77.8832657
+179,Halifax,LCID,LF,42A-LCID-,Roanoke Valley LCID Landfill,Active,2055 Hwy 301,Weldon,Mr. Benjamin Rightmyer,(252) 537-3223,35.7310716,-77.8832657
+180,Harnett,CD,LF,4302-CDLF-2018,Dunn-Erwin Area 2 C&D Landfill,Active,449 Daniels Rd.,Dunn,Mr. Chad Beane,(910) 814-6004,35.3666009,-78.6483784
+181,Harnett,LCID,LF,4302-LCID-,Harnett County-Dunn/Erwin LCID Landfill,Active,449 Daniels Road,Dunn,Mr. Chad Beane,(910) 814-6004,35.3666009,-78.6483784
+182,Harnett,CD,LF,4303-CDLF-1997,Harnett Co. Anderson Creek C&D Landfill,Active,1086 Poplar Drive,Spring Lake,Mr. Chad Beane,(910) 814-6004,35.2929848,-78.9957237
+183,Harnett,Tire,LF,4304-TIRELF-1992,Central Carolina Tire Monofill,Active,1616 Mckoy Town Rd,Cameron,Mr. Robert Tuneburg,(919) 498-7431,35.2641658,-79.15086269999999
+184,Harnett,MSW,Trans,4307T-TRANSFER-1997,Harnett County Transfer Station,Active,449 Daniels Rd.,Dunn,Mr. Chad Beane,(910) 814-6004,35.3666009,-78.6483784
+185,Harnett,Tire,TP,4308-TIRETP-,Central Carolina Tire Processing,Active,1616 Mckoy Town Rd,Cameron,Mr. Robert Tuneburg,(919) 498-7431,35.2641658,-79.15086269999999
+186,Harnett,MSW,Trans,4309T-TRANSFER-,Anderson Creek Landfill Transfer Station,Active,1086 Poplar Drive,Spring Lake,Mr. Chad Beane,(910) 814-6004,35.2929848,-78.9957237
+187,Harnett,LCID,LF,43C-LCID-,Blaylock Grading LCID Landfill,Active,1025 Claude White Rd.,Sanford,Mr. Harold Blaylock,(910) 818-8398,35.3125614,-79.1608313
+188,Harnett,LCID,LF,43D-LCID-,Bryant Grading LCID Landfill,Active,376 Spence Mill Road,Fuquay Varina,Mrs. Peggy Bryant,(919) 552-3420,35.5291318,-78.8232061
+189,Harnett,LCID,LF,43E-LCID-,McArtan Mine LCID Landfill,Active,"SR 2027, Josey Williams Rd.",Bunnlevel,Mr. Steve Waters,(910) 978-2412,35.267944,-78.7739223
+190,Harnett,LCID,LF,43F-LCID-2010,Weeks Sandpit #2 LCID,Active,20710 NC Hwy 24 / 27,Cameron,Mr. Jeff Lees,(919) 353-0865,35.2815396,-79.12154749999999
+191,Haywood,Indus,LF,4406-INDUS-1984,"Blue Ridge Paper Products, Inc.",Active,1155 Incinerator Road,Canton,Mr. Nick Batton,(828) 424-0101,35.5475368,-82.8761331
+192,Haywood,MSW,LF,4407-MSWLF-1993,Haywood Co White Oak Landfill,Active,3898 Fines Creek Road,Waynesville,Mr. John Preston,(423) 650-3095,35.6632432,-83.0000561
+193,Haywood,MatRecovery,TP,4408-MWP-,Haywood County MWP Facility,Active,278 Recycle Road,Clyde,Mr. Lester Harris,(828) 627-8042,35.529539,-82.942814
+194,Henderson,HHW,TP,4504-HHW-2011,Henderson County HHW Unit,Active,265 Convenience Center Drive,Hendersonville,Mr. Greg Wiggins,(828) 388-8377,35.352854,-82.49343259999999
+195,Henderson,MSW,Trans,4504T-TRANSFER-1998,Henderson County Transfer Facility,Active,191 Transfer Station Drive,Hendersonville,Mr. Greg Wiggins,(828) 388-8377,35.3528192,-82.497239
+196,Henderson,LCID,TP,4507-TP,Riverside Stump Dump at Mills River,Active,5055 Old Haywood Road,Mills River,Mrs. Clara Ray,(828) 258-7339,35.4034181,-82.57023009999999
+197,Hertford,MSW,Trans,4602T-TRANSFER-1995,Hertford County Transfer Station,Active,227 Mount Moriah Rd,Ahoskie,Mrs. Judy Baker,(252) 358-3601,36.391646,-76.972138
+198,Hoke,MSW,Trans,4702-TRANSFER-1994,Hoke County Transfer Station,Active,700 CC Steele Rd.,Raeford,Mr. DON RUSSELL,(910) 875-3111,35.007456,-79.2177911
+199,Hoke,LCID,LF,47A-LCID-1996,Hoke County LCID Landfill,Active,700 C.C. Steele Rd,Raeford,Mr. DON RUSSELL,(910) 875-3111,35.007456,-79.2177911
+200,Hyde,TypeIII,Compost,4801-COMPOST-,Rose Acre Farms,Active,1560 Hyde Park Canal,Pantego,Mr. William Kelm,(252) 935-5800,35.6141035,-76.5100796
+201,Iredell,HHW,TP,4903-HHW-2020,Iredell County Househouse Hazardous Waste,Active,354 Twin Oaks Road,Statesville,Mr. David Lambert,(704) 878-5430,35.7702072,-80.82359199999999
+202,Iredell,MSW,LF,4903-MSWLF-1993,Iredell County Sanitary LF,Active,354 Twin Oaks Road,Statesville,Mr. David Lambert,(704) 878-5430,35.7702072,-80.82359199999999
+203,Iredell,MSW,Trans,4904T-TRANSFER-1998,Iredell County Transfer Station,Active,158 Macleod Drive,Mooresville,Mr. David Lambert,(707) 878-5430,35.5883639,-80.8417911
+204,Jackson,MSW,Trans,5003T-TRANSFER-,Jackson County Scott Creek Transfer Station,Active,48 Recycle Place,Sylva,Mr. Chad Parker,(828) 586-2437,35.3862939,-83.2117868
+205,Johnston,CD,LF,5103-CDLF-,Johnston County C&D Landfill,Active,680 County Home Road,Smithfield,Mr. Rick Proctor,(919) 938-4750,35.5118897,-78.42907459999999
+206,Johnston,MSW,LF,5103-MSWLF-,Johnston County Landfill,Active,680 County Home Road,Smithfield,Mr. Rick Proctor,(919) 938-4750,35.5118897,-78.42907459999999
+207,Johnston,MSW,LF,5103-MSWLF-1997,Johnston County Landfill,Active,680 County Home Road,Smithfield,Mr. Rick Proctor,(919) 938-4750,35.5118897,-78.42907459999999
+208,Johnston,LCID,TP,5106-TP-2019,West Farms Wood Products T&P,Active,1683 Barefood Road,Newton Grove,Ms. Amber Parnell,(919) 207-2539,35.3056386,-78.3941536
+209,Jones,CD,TP,5202-TP-2012,Maysville C&D Recycling & Recovery Facility,Active,11710 Hwy 17N,Maysville,Mr. Kevin Dail,(910) 284-2309,34.9048814,-77.23134360000002
+210,Jones,CD,LF,5203-CDLF-2013,Maysville C & D,Active,11710 Hwy 17 N,Maysville,Mr. Kevin Dail,(910) 284-2309,34.92826460000001,-77.2406005
+211,Lee,TypeIII,Compost,5303-COMPOST-1992,Sanford Compost Facility,Active,601 N 5th St,Sanford,Mr. Kris Furmage,(919) 777-1209,35.4907898,-79.1718721
+212,Lee,MSW,Trans,5304T-TRANSFER-1993,Waste Man. - Lee Co. Transfer Station,Active,2720 Wilkins Dr,Sanford,Mr. Ronald Smith,(910) 480-4024,35.5043275,-79.2042699
+213,Lee,MSW,Trans,5305-TRANSFER-2013,Sanford Transfer Station,Active,3290 McDonald Drive,Sanford,Mr. LeRoy Hatmaker,(910) 237-2825,35.4428531,-79.13571449999999
+214,Lenoir,CD,LF,5403-CDLF-1997,Lenoir County CDLF,Active,2949 Hodges Farm Rd,La Grange,Mr. Hal Oliver,(252) 526-0662,35.294318,-77.7129033
+215,Lenoir,MSW,Trans,5405T-TRANSFER-1998,Lenoir County Transfer Facility,Active,2949 Hodges Farm Rd,La Grange,Mr. Hal Oliver,(252) 526-0662,35.294318,-77.7129033
+216,Lenoir,MSW,Trans,5408-TRANSFER-2014,Deep Run Transfer Station,Active,2287 Leslie R Stroud Road,Kinston,Mr. Travis Pope,(252) 903-1409,35.1711942,-77.6997624
+217,Lenoir,MSW,LF,5409-MSWLF-,Lenoir County MSW Landfill,Active,294 Hodges Farm Rd,La Grange,Mr. Hal Oliver,(252) 526-0662,35.29764540000001,-77.7178888
+218,Lenoir,LCID,LF,5410-LCID-2016,Everett's LCID Pit,Active,4100 Aldridge store rd,Lagrange,Mr. Lynn Everett,(252) 560-3356,35.3324569,-77.72901540000001
+219,Lincoln,CD,LF,5503-CDLF-1999,Lincoln County C&D Unit,Active,5291 Crouse Road,Crouse,Mr. Mark Bivins,(704) 736-8477,35.4300569,-81.3538203
+220,Lincoln,MSW,LF,5503-MSWLF-1986,Lincoln County Landfill,Active,5291 Crouse Road,Crouse,Mr. Mark Bivins,(704) 732-9030,35.4300569,-81.3538203
+221,Lincoln,CD,LF,5504-CDLF-1999,Lake Norman Landfill,Active,7099 Quarry Ln,Stanley,Mr. Rob LaTourette,(704) 712-8560,35.4301619,-81.0110723
+222,McDowell,MSW,Trans,5602T-TRANSFER-1995,McDowell Co Transfer Facility,Active,3809 NC 226 South,Marion,Mr. Terry DePoyster,(828) 659-2521,35.6540201,-81.9576329
+223,Macon,MSW,LF,5703-MSWLF-1992,Macon County Landfill Open,Active,1448 LAKESIDE DRIVE,FRANKLIN,Mrs. JUNE CASSADA,(828) 349-2215,35.2010749,-83.3769252
+224,Macon,MSW,Trans,5704T-TRANSFER-2008,Highlands Transfer Station,Active,1080 Rich Gap Rd.,Highlands,Mr. Dakota Webb,(828) 526-2073,35.019265,-83.1765819
+225,Macon,TypeIII,Compost,5705-COMPOST-,"B & B Concrete Products, Inc.",Active,1687 Georgia Road,Franklin,Mr. Jeremy Decker,(828) 524-6483,35.1516592,-83.3934819
+226,Madison,CD,LF,5803-CDLF-1995,Madison County C&D Unit,Active,271 Craig Rudisill Road,Marshall,Mr. Sam Lunsford,(828) 649-2311,35.8096544,-82.7177865
+227,Madison,HHW,Collection,5803-HHW-,Madison County Solid Waste HHW,Active,271 Craig Rudisill Road,Marshall,Mrs. Rebecca Shook,(828) 649-2311,35.8096544,-82.7177865
+228,Madison,MSW,Trans,5803T-TRANSFER-2002,Madison County Transfer,Active,271 Craig Rudisill Rd,Marshall,Mrs. Sam Lunsford,(828) 649-2311,35.8096544,-82.7177865
+229,Martin,CD,LF,5901-CDLF-1995,Martin County C&D Landfill,Active,1445 Landfill Rd,Williamston,Mr. Justin Harrison,(252) 799-6552,35.8620001,-77.0964247
+230,Mecklenburg,Indus,LF,6004-INDUS-1981,Duke Energy Carolinas - McGuire,Active,13339 Hagers Ferry Road,Huntersville,Ms. Courtney Murphy,(704) 382-7171,35.4381281,-80.9420501
+231,Mecklenburg,TypeI,Compost,6012-COMPOST-1991,Mecklenburg County-Central Compost,Active,5631 West Blvd,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.1937284,-80.9529007
+232,Mecklenburg,CD,LF,6013-CDLF-1993,Greenway Waste Solutions at North Meck,Active,15300 Holbrooks Rd,Huntersville,Mr. Roger Barnes,(704) 875-3367,35.4010895,-80.81907149999999
+233,Mecklenburg,MSW,Trans,6014-TRANSFER-2009,Queen City Transfer Station,Active,3130 Jeff Adams Road,Charlotte,Mr. Dustin Janes,(931) 320-1380,35.271687,-80.82917189999999
+234,Mecklenburg,YW,Compost,6015TP-COMPOST-,Hensons' Inc. Mulch & More Pineville,Active,13010 Lancaster Hwy,Pineville,Mr. Randy Flynn,(828) 859-5836,35.0660352,-80.8776228
+235,Mecklenburg,HHW,Collection,6016TP-HHW-,North Mecklenburg HHW Facility,Active,12300 Statesville Road,Huntersville,Mr. Steve Hoffman,(980) 314-3873,35.38756310000001,-80.84460109999999
+236,Mecklenburg,YW,TP,6016TP-HHW-,North Mecklenburg HHW Facility,Active,12300 Statesville Road,Huntersville,Mr. Steve Hoffman,(980) 314-3873,35.38756310000001,-80.84460109999999
+237,Mecklenburg,HHW,Collection,6017TP-HHW-,Hickory Grove HHW Recycling Facility,Active,8007 Pence Road,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.2194714,-80.6966422
+238,Mecklenburg,YW,TP,6017TP-HHW-,Hickory Grove HHW Recycling Facility,Active,8007 Pence Road,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.2194714,-80.6966422
+239,Mecklenburg,TypeI,Compost,6019-COMPOST-2017,Mecklenburg County Landfill,Active,17131 Lancaster Hwy,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.0156302,-80.8496498
+240,Mecklenburg,HHW,Collection,6019-HHW-,Mecklenburg County Landfill,Active,17131 Lancaster Highway,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.0156302,-80.8496498
+241,Mecklenburg,MSW,LF,6019-MSWLF-2000,Mecklenburg County Landfill,Active,17131 Lancaster Hwy,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.0156302,-80.8496498
+242,Mecklenburg,LCID,TP,6021-TP-,Ron Brewer Wood Recycling Center,Active,10050 Metromont Industrial Blvd,Charlotte,Mrs. Beverly Brewer,(704) 399-5500,35.3580949,-80.83046949999999
+243,Mecklenburg,TypeIII,Compost,6022-COMPOST-,Wallace Farms Compost Facility,Active,14410 Eastfield Road,Huntersville,Mr. Eric Wallace,(704) 875-2975,35.393369,-80.76785819999999
+244,Mecklenburg,LCID,TP,6025-TP-,"Soil Supply, Inc.",Active,10219 Hagers Road,Huntersville,Mr. Gary Stinson,(704) 875-3774,35.42811690000001,-80.8367301
+245,Mecklenburg,MSW,Trans,6029-TRANSFER-2012,O'Leary Resource Recovery Center,Active,3307 Darby Avenue,Charlotte,Mr. Jimmie Jones,(704) 338-6898,35.2583413,-80.8751478
+246,Mecklenburg,TypeIII,Compost,6033-AD-COMPOST-2015,Orbit Energy Anerobic Digester Charlotte,Active,600 Johnson Road,Charlotte,Mr. Zack Morgan,(980) 265-0619,35.2624365,-80.81160899999999
+247,Mecklenburg,LCID,TP,6034-TP-2016,"Kamps, Inc.",Active,5104 N Graham St,Charlotte,Mr. Curtis Brushman,(616) 560-5678,35.2827568,-80.8030857
+248,Mecklenburg,HHW,Collection,6035-HHW-2016,Mecklenburg County Compost and Recycling Facility,Active,140 Valleydale Road,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.2845671,-80.9176921
+249,Mecklenburg,TypeI,Compost,6036-COMPOST-2017,Mecklenburg County Compost and Recycling Facility,Active,2145 Suttle Ave,Charlotte,Mr. Steve Hoffman,(980) 314-3873,35.2236178,-80.8714195
+250,Mecklenburg,LCID,LF,60AM-LCID-,Ronald J Brewer,Active,3015 Kelly Rd,Charlotte,Mrs. Beverly Brewer,(704) 399-5500,35.3168218,-80.91080319999999
+251,Mecklenburg,LCID,LF,60AN-LCID,"Metrolina Greenhouses, Inc.",Active,16400 Huntersville-Concord Road,Huntersville,Mr. Robert Hilton,(980) 229-0848,35.4193052,-80.77824629999999
+252,Mecklenburg,LCID,LF,60AR-LCID-,"Tommy Price, Inc.",Active,10900 Pine Grove Ave,Charlotte,Mr. Paul Price,(704) 724-3747,35.20917,-80.66387259999999
+253,Mecklenburg,LCID,LF,60AX-LCID-,Lakeview Road Landfill Inc,Active,4627 Lakeview Road,Charlotte,Mr. Larry Swaringen,(704) 393-1778,35.33111239999999,-80.8610218
+254,Mecklenburg,LCID,LF,60Q-LCID-,Piedmont Grading & Wrecking,Active,11898 Everett Keith Rd,Huntersville,Mr. Wayne Kerr,(704) 622-1388,35.3795641,-80.81990429999999
+255,Mecklenburg,LCID,LF,60S-LCID-,Kenneth C. Reeves,Active,2323 Salome Church Road,Charlotte,Mr. Kenneth Reeves,(704) 548-8377,35.340651,-80.720826
+256,Montgomery,MSW,MatRecovery,6202MRF-MWP-,Uwharrie Environmental Mrf,Active,500 Landfill Rd,Mount Gilead,Mr. Joseph Reynolds,(910) 606-3210,35.333937,-79.96465110000001
+257,Montgomery,MSW,LF,6204-MSWLF-1995,Uwharrie Env. Reg. Landfill,Active,500 Landfill Rd,Mount Gilead,Mr. Joseph Reynolds,(910) 606-3210,35.333937,-79.96465110000001
+258,Montgomery,YW,TP,6204-TP-2011,Uwharrie T&P Facility,Active,500 Landfill Rd,Troy,Mr. Joseph Reynolds,(910) 606-3210,35.333937,-79.96465110000001
+259,Moore,CD,LF,6301-CDLF-1992,Moore County C&D Landfill,Active,456 Turning Leaf Way,Aberdeen,Mr. David Lambert,(910) 947-4318,35.1475599,-79.4812972
+260,Moore,MSW,Trans,6302-TRANSFER-1994,Uwharrie Env Inc/Moore Cty Transfer Station,Active,645 Turning Leaf Way,Aberdeen,Mr. Joseph Reynolds,(910) 606-3210,35.147607,-79.48989
+261,Moore,HHW,Collection,6303-HHW-2020,Moore County Eagle Springs Road HHW Collection Center,Active,456 Turning Leaf Way,Aberdeen,Mr. David Lambert,(910) 947-4318,35.1475599,-79.4812972
+262,Nash,CD,LF,6403-CDLF-2000,Nash County C&D Landfill,Active,3057 Duke Rd.,Nashville,Mr. Ben Barnes,(252) 459-9899,36.0614451,-77.9936489
+263,Nash,MSW,Trans,6405T-TRANSFER-2001,"Rocky Mount, City of Transfer Station #2",Active,1221 Thorpe Rd,Rocky Mount,Mr. Cameron Privott,(252) 343-3152,35.9717345,-77.79638469999999
+264,Nash,TypeII,Compost,6406-COMPOST-2014,"Carolina Recycled Ag Materials, LLC.",Active,4330 Universal Leaf Drive,Nashville,Mr. Kyle Bass,(252) 343-1615,36.0192107,-78.0396817
+265,Nash,TypeI,Compost,6407-COMPOST-2018,Rocky Mount Compost Facility,Active,394 Arrow Road,Rocky Mount,Mr. Chris Pridgen,(252) 467-4909,35.9758813,-77.89069599999999
+266,New Hanover,YW,Compost,6504-COMPOST-2018,New Hanover County Compost Facility,Active,5210 U.S. Highway 421 N.,Wilmington,Mr. Joe Suleyman,(910) 798-4403,34.3254869,-77.989819
+267,New Hanover,MSW,LF,6504-MSWLF-1981,New Hanover County Landfill,Active,5210 US Highway 421 North,Wilmington,Mr. Joe Suleyman,(910) 798-4403,34.3254869,-77.989819
+268,New Hanover,MSW,LF,6504-MSWLF-2017,New Hanover County Landfill,Active,5210 US Highway 421 North,Wilmington,Mr. Joe Suleyman,(910) 798-4403,34.3254869,-77.989819
+269,New Hanover,CD,MatRecovery,6504-MWP-2016,New Hanover County Materials Recovery & Recycling Facility,Active,5210 US Highway 421 North,Wilmington,Mr. Joe Suleyman,(910) 798-4403,34.3254869,-77.989819
+270,New Hanover,HHW,TP,6505-HHW-2013,New Hanover Waste-to-Energy Facility,Active,3002 U.S. Highway 421 N.,Wilmington,Mr. Joe Suleyman,(910) 798-4403,34.281889,-77.9589326
+271,New Hanover,MSW,Trans,6508T-TRANSFER-1993,Waste Management Of Wilmington Transfer,Active,3920 River Rd,Wilmington,Mr. David Greer,(910) 915-9040,34.1639722,-77.9441042
+272,New Hanover,LCID,TP,6511-TP-,American Property Experts,Active,606 Sunnyvale Rd,Wilmington,Mrs. Ayesha Waggaman,(910) 793-1460,34.1752191,-77.9374995
+273,New Hanover,Indus,LF,6512-INDUS-2016,Duke Energy Progress - Sutton Energy Complex,Active,801 Sutton Steam Plant Road,Wilmington,Mr. John Toepfer,(919) 546-7863,34.283469,-77.984517
+274,Onslow,LCID,LF,6705-LCID-1991,Onslow County Landfill : LCID Unit,Active,415 Meadowview Road,Jacksonville,Ms. Melissa Moore,(910) 937-1443,34.7979944,-77.53821769999999
+275,Onslow,MSW,LF,6708-MSWLF-1997,Camp Lejeune MSW Landfill,Active,Piney Green Road,Camp Lejeune,Mr. Robert Lowder,(910) 451-5003,34.7084979,-77.3219613
+276,Onslow,MSW,LF,6709-MSWLF-1997,Onslow County Subtitle-D Landfill,Active,415 Meadowview Road,Jacksonville,Ms. Melissa Moore,(910) 937-1443,34.7979944,-77.53821769999999
+277,Onslow,TypeIII,Compost,6710-COMPOST-1999,Camp Lejeune Compost Facility,Active,Piney Green Road,Camp Lejeune,Mr. Robert Lowder,(910) 451-5003,34.7084979,-77.3219613
+278,Onslow,LCID,TP,6710-TP-2013,Camp Lejeune T&P,Active,Piney Green Road,Camp Lejeune,Mr. Robert Lowder,(910) 451-5003,34.7084979,-77.3219613
+279,Onslow,CD,Trans,6712-TRANSFER-2016,Folkstone C&D Recycling Collection/Transfer Facility,Active,1172 Hwy 172,Holly Ridge,Mr. Kevin Dail,(910) 284-2309,34.5391013,-77.5028181
+280,Onslow,LCID,LF,67A-LCID-,Morton Trucking Site,Active,121 Garnet Lane,Jacksonville,Mr. Tim Morton,(910) 548-0194,34.8013606,-77.3536189
+281,Onslow,LCID,LF,67C-LCID-,Eastern Excavating Landfill,Active,143 Penguin Ln,Jacksonville,Mrs. Lisa Williams,(910) 353-9100,34.7708262,-77.3352692
+282,Onslow,LCID,LF,67D-LCID-,Haugen Landfill,Active,3062 Burgaw Hwy.,Jacksonville,Mr. Mark Haugen,(910) 324-8025,34.73757,-77.543643
+283,Onslow,LCID,LF,67E-LCID-,Parker Meadow LCID LF,Active,off Jim Parker Road,Jacksonville,Mr. Joey Humphrey,(910) 346-4727,34.8153636,-77.3787406
+284,Onslow,LCID,LF,67F-LCID-2012,Rocky Run Inert Debris,Active,3121 New Bern Highway,Jacksonville,Mr. Adam Morton,(910) 330-5776,34.791158,-77.375929
+285,Orange,CD,LF,6804-CDLF-2005,Orange County C&D Landfill,Active,1514 Eubanks Road,Chapel Hill,Ms. Kristina Witosky,(919) 918-4916,35.9680943,-79.08272099999999
+286,Orange,HHW,TP,6805-HHW-2013,Orange County Walnut Grove HHW,Active,3605 Walnut Grove Church Road,Hillsborough,Ms. Kristina Witosky,(919) 918-4916,36.1440362,-79.1208175
+287,Orange,HHW,Collection,6806-HHW-2018,Eubanks Road Convenience Center,Active,1518 Eubanks Road,Chapel Hill,Ms. Kristina Witosky,(919) 918-4916,35.9695982,-79.0762828
+288,Pamlico,MSW,Trans,6903T-TRANSFER-1993,Pamlico County Transfer Station,Active,3291 Highway 306 N,"Grantsboro, NC",Mr. Bobby Darden,(252) 633-1564,35.188579,-76.849801
+289,Pasquotank,CD,LF,7002-CDLF-1996,Pasquotank County C&D Landfill,Active,983 Simpson Ditch Road,Elizabeth City,Mr. Bradley Gardner,(252) 335-4105,36.2527121,-76.26477919999999
+290,Pasquotank,MSW,Trans,7003T-TRANSFER-1994,Pasquotank County Transfer Station,Active,983 Simpson Ditch Road,Elizabeth City,Mr. Bradley Gardner,(252) 335-4105,36.2527121,-76.26477919999999
+291,Pender,MSW,Trans,7103T-TRANSFER-1990,Pender Co Transfer Station,Active,250 Transfer Station Rd.,Hampstead,Mr. Kenny Keel,(910) 259-0212,34.3957169,-77.66809219999999
+292,Pender,LCID,LF,71A-LCID-,Running Deer LCID Landfill,Active,7214 NC Hwy 210,Rocky Point,Mr. Clyde Wisecarver,(910) 619-4121,34.4283376,-77.788697
+293,Perquimans,MSW,Trans,7202T-TRANSFER-1995,Perquimans-Chowan-Gates Transfer,Active,759 Perry's Bridge Rd,Belvidere,Ms. Angel White,(252) 297-6524,36.3089892,-76.5456395
+294,Person,Indus,LF,7302-INDUS-1988,Duke Energy Progress - Roxboro,Active,1700 Dunnaway Road,Semora,Mrs. Kimberlee Witt,(336) 215-4576,36.4816916,-79.0700224
+295,Person,MSW,LF,7304-MSWLF-1997,Upper Piedmont Regional Landfill,Active,9650 Oxford Road,Rougemont,Mr. Erik Siebold,(336) 364-3699,36.336724,-78.8309867
+296,Person,Indus,LF,7305-INDUS-2012,Duke Energy Progress - Mayo,Active,10660 Boston Road,Roxboro,Mrs. Kimberlee Witt,(336) 215-4576,36.52169,-78.9062861
+297,Person,Tire,Collection,7306-TIRECOLL-2014,Person County Recycling Center,Active,741 Martin Street,Roxboro,Ms. Amanda Everett,(336) 599-7571,36.3914671,-79.00406439999999
+298,Person,LCID,LF,73D-LCID-2002,Duke Energy Progress - Roxboro,Active,1700 Dunnaway Road,Semora,Mrs. Kimberlee Witt,(336) 215-4576,36.4816916,-79.0700224
+299,Pitt,CD,MatRecovery,7404-MWP-2016,Pitt County Materials Recovery & Recycling Facility,Active,3025 Landfill Road,Greenville,Mr. John Demary,(252) 902-3355,35.59785,-77.43175049999999
+300,Pitt,MSW,Trans,7404T-MWP-1996,Pitt County Transfer Station,Active,3025 Landfill Road,Greenville,Mr. John Demary,(252) 902-3355,35.59785,-77.43175049999999
+301,Pitt,MSW,Trans,7406T-TRANSFER-2001,EJE Recycling Transfer Station,Active,802 recycling lane,Greenville,Mr. judson whitehurst,(252) 916-4770,35.62088680000001,-77.1817215
+302,Pitt,CD,LF,7407-CDLF-2009,C & D Landfill Inc,Active,802 Recycling Lane,Greenville,Mr. Judson Whitehurst,(252) 752-8274,35.62088680000001,-77.1817215
+303,Pitt,LCID,LF,74C-LCID-,E R Lewis Construction,Active,1462 Edwards Farm Road,Winterville,Mr. Curt williford,(252) 321-1101,35.519735,-77.346985
+304,Pitt,LCID,LF,74D-LCID-,E R Lewis,Active,3034 NC Highway 33 East,Greenville,Mr. Curt Williford,(252) 321-1101,35.681952,-77.427572
+305,Polk,MSW,Trans,7504T-TRANSFER-2005,Polk County Transfer Station,Active,322 landfill rd,Mill Spring N.C.,Mr. Larry Walker,(828) 894-3737,35.319338,-82.183714
+306,Randolph,Indus,LF,7602-INDUS-1983,Energizer Battery Manufacturing Inc.,Active,County Land Road,Randleman,Mrs. Julia Bowman,(336) 672-4546,35.7535071,-79.7671347
+307,Randolph,TypeIII,Compost,7604-COMPOST-,N.C. Zoological Park,Active,4401 Zoo Parkway,Asheboro,Mr. Jody Stancil,(336) 879-7420,35.6300322,-79.7666256
+308,Randolph,MSW,Trans,7605T-TRANSFER-2002,"Asheboro, City of Recycling/SW Transfer Station",Active,630 Transfer Station Place,Asheboro,Mr. Rusty Turner,(336) 626-1234,35.7175952,-79.7966076
+309,Randolph,CD,LF,7606-CDLF-2001,Gold Hill Road C&D Debris Landfill,Active,385 Gold Hill Road,Asheboro,Mr. Al Morton,(336) 629-7175,35.7192678,-79.7918883
+310,Randolph,MSW,LF,7607-MSWLF-2015,Great Oak Landfill,Active,3597 Old Cedar Falls Road,Randleman,Mr. Mike McFeeley,(336) 865-3201,35.7460728,-79.74224389999999
+311,Randolph,TypeI,Compost,7608-COMPOST-2017,"Asheboro, City of Compost Facility",Active,2139 Old Lexington Road,Asheboro,Mr. Rusty Turner,(336) 626-1234,35.7284109,-79.8569455
+312,Richmond,MSW,Trans,7703T-TRANSFER-1994,Richmond County Transfer Facility,Active,191 Walter Kelly Rd,Rockingham,Mr. Bryan Leggett,(910) 997-8338,35.015075,-79.8057287
+313,Richmond,LCID,LF,77A-LCID-1981,"Hamlet, Town Of",Active,1000 Oakhurst Street,Hamlet,Mr. William Stubbs,(910) 582-7987,34.8805094,-79.6985594
+314,Robeson,CD,LF,7803-CDLF-1997,Robeson County CDLF,Active,246 Landfill Road,Saint Pauls,Mr. Gene Walters,(910) 865-3348,34.7927157,-78.9082699
+315,Robeson,MSW,LF,7803-MSWLF-1997,Robeson County Landfill,Active,246 landfill Road,Saint Pauls,Mr. Gene Walters,(910) 865-3348,34.7927157,-78.9082699
+316,Robeson,LCID,LF,78J-LCID-1990,"Lumberton, City of LCID Landfill",Active,500 N Cedar Street,Lumberton,Mr. Robert Armstrong,(910) 671-3851,34.6207466,-79.0026956
+317,Rockingham,MSW,Trans,7902T-TRANSFER-1991,"Reidsville, City Of Transfer Facility",Active,709 Marcellus St,Reidsville,Mr. Gary French,(336) 349-1074,36.354813,-79.67958399999999
+318,Rockingham,HHW,Collection,7903-HHW-2013,"Eden, City of HHW Collection Facility",Active,123 Mebane bridge Rd,Eden,Mr. Dusty Curry,(336) 627-7783,36.4771383,-79.7401816
+319,Rockingham,MSW,Trans,7903T-TRANSFER-1991,"Eden, City of Transfer Station",Active,123 Mebane Bridge rd.,Eden,Mr. Dusty Curry,(336) 627-7783,36.4771383,-79.7401816
+320,Rockingham,MSW,LF,7904-MSWLF-1995,Rockingham County Landfill,Active,223 Shuff Road,Madison,Ms. kathryn jolly,(336) 613-4141,36.3745902,-79.8499621
+321,Rockingham,Indus,LF,7906-INDUS-2016,Duke Energy Carolinas - Dan River,Active,900 South Edgewood Road,Eden,Mrs. Melonie Martin,(336) 445-0610,36.486373,-79.7208605
+322,Rockingham,TypeI,Compost,7908-COMPOST-2018,Reidsville Yard Waste & Material Recovery Facility,Active,407 Broad Street,Reidsville,Mr. Gary French,(336) 349-1074,36.3232638,-79.6570083
+323,Rowan,MSW,LF,8003-MSWLF-1988,Rowan County Landfill,Active,789 Campbell Rd.,Woodleaf,Mr. Caleb Sinclair,(704) 216-8606,35.757247,-80.5550971
+324,Rowan,MSW,Trans,8004T-TRANSFER-1995,East Spencer Waste Transfer Facility,Active,1000 N Long St,East Spencer,Mr. Timothy Owens,(252) 230-2609,35.691103,-80.42031999999999
+325,Rowan,TypeI,Compost,8006-COMPOST-2015,Salisbury Grants Creek Compost Facility,Active,1955 Grubb Ferry Rd,Salisbury,Mr. Michael Hanna,(704) 216-8028,35.7142562,-80.4339105
+326,Rutherford,CD,LF,8103-CDLF-2002,Rutherford County C&D,Active,656 Laurel Hill Dr.,Rutherfordton,Mr. James kilgo,(828) 287-6002,35.3504922,-81.9520112
+327,Rutherford,MSW,Trans,8104T-TRANSFER-1998,Rutherford County Transfer Facility,Active,656 Laurel Hill Dr.,Rutherfordton,Mr. James Kilgo,(828) 287-6002,35.3504922,-81.9520112
+328,Rutherford,MSW,LF,8105-MSWLF-,Rutherford County MSW Landfill,Active,656 Laurel Hill Dr.,Rutherfordton,Mr. James kilgo,(828) 287-6002,35.3504922,-81.9520112
+329,Rutherford,Indus,LF,8106-INDUS-2009,Duke Energy Carolinas - Rogers,Active,573 Duke Power Road,Mooresboro,Mr. Ryan Czop,(980) 373-2779,35.2143969,-81.7603481
+330,Sampson,CD,LF,8202-CDLF-1996,"Sampson County Disposal, LLC",Active,7434 Roseboro Hwy,Roseboro,Mr. Joseph Smith,(910) 525-4132,34.9662257,-78.45032739999999
+331,Sampson,MSW,LF,8202-MSWLF-2000,"Sampson County Disposal, LLC",Active,7434 Roseboro Hwy,Roseboro,Mr. Joseph Smith,(910) 525-4132,34.9662257,-78.45032739999999
+332,Sampson,TypeIII,Compost,8205-COMPOST-2015,Coastal Protein,Active,1600 Martin Road,Godwin,Mr. Blake Bullard,(910) 567-6102,35.157435,-78.6298551
+333,Scotland,CD,LF,8301-CDLF-1997,Scotland County CDLF,Active,10681 Patterson Rd,Maxton,Mr. Bryant Higgins,(910) 844-9206,34.7266074,-79.37928699999999
+334,Scotland,MSW,Trans,8302T-TRANSFER-1997,Scotland County Transfer Station,Active,21104 Old Maxton Rd,Maxton,Mr. Bryant Higgins,(910) 844-9206,34.726996,-79.379778
+335,Stanly,CD,LF,8401-CDLF-1997,"Albemarle, City of CDLF",Active,40592B Stony Gap Road,Albemarle,Mr. Darren Preslar,(704) 984-9680,35.3146521,-80.15308499999999
+336,Stanly,MSW,LF,8401-MSWLF-1999,"Albemarle, City of Landfill",Active,40592B Stony Gap Road,Albemarle,Mr. Darren Preslar,(704) 984-9680,35.3146521,-80.15308499999999
+337,Stokes,Indus,LF,8504-INDUS-2007,"Duke Energy Carolinas - Belews Creek, Craig Road Landfill",Active,3195 Pine Hall Road,Belews Creek,Mrs. Melonie Martin,(336) 445-0610,36.2921643,-80.0641321
+338,Stokes,Indus,LF,8505-INDUS-2008,"Duke Energy Carolinas - Belews Creek, FGD",Active,3195 Pine Hall Road,Belews Creek,Mrs. Melonie Martin,(336) 445-0610,36.2921643,-80.0641321
+339,Surry,MSW,LF,8606-MSWLF-1998,Surry County MSWLF,Active,237 Landfill Road,Mount Airy,Mrs. Jessica Montgomery,(336) 401-8375,36.4383259,-80.5682787
+340,Surry,Tire,TP,8607-TIRETP-2013,"New River Tire Recycling, LLC",Active,312 E 52 Bypass,Pilot Mountain,Mr. Ben Bryant,(276) 728-0201,36.385914,-80.46101399999999
+341,Swain,MSW,Trans,8702T-TRANSFER-,Swain County Transfer Facility,Active,1422 hwy 19 south,bryson city,Mr. scott turpin,(828) 488-4999,35.4152525,-83.4653137
+342,Swain,LCID,LF,87A-LCID-,Swain County LCID,Active,1422 hwy 19 sounth,bryson city,Mr. scott turpin,(828) 488-4999,35.4152525,-83.4653137
+343,Transylvania,HHW,TP,8807-HHW-,Transylvania County HHW Unit,Active,500 Howell Road,Brevard,Mr. Kenn Webb,(828) 577-3603,35.118059,-82.843784
+344,Transylvania,LCID,LF,8807-LCID-1988,Transylvania County LCID,Active,500 Howell Road,Brevard,Mr. Kenn Webb,(828) 884-1842,35.118059,-82.843784
+345,Transylvania,MSW,LF,8807-MSWLF-1990,Transylvania County Landfill,Active,500 Howell Road,Brevard,Mr. Kenn Webb,(828) 884-1842,35.118059,-82.843784
+346,Union,CD,LF,9001-CDLF-1998,Union County C&D,Active,2125 Austin Chaney Road,Wingate,Mr. Christopher Medlin,(704) 989-1949,35.0393722,-80.4593781
+347,Union,MSW,Trans,9005T-TRANSFER-1999,Union County Transfer Station,Active,2125 Austin Chaney Road,Wingate,Mr. Christopher Medlin,(704) 989-1949,35.0393722,-80.4593781
+348,Union,LCID,LF,9013-LCID-,Griffin Farm LCID Landfill,Active,4242 Morgan Mill Rd,Monroe,Mr. Richard Griffin,(704) 361-7791,35.0513518,-80.4965356
+349,Union,MSW,Trans,9014-TRANSFER-2014,God Bless the USA Transfer Station,Active,3320 Westwood Industrial Drive,Monroe,Mr. Tim Fadul,(704) 398-4488,35.012873,-80.60965379999999
+350,Vance,MSW,Trans,9102T-TRANSFER-1997,Waste Industries-Vance County,Active,3453 Hwy 39 N,Henderson,Mr. Randy Deming,(260) 579-1861,36.3732755,-78.420836
+351,Wake,HHW,Collection,9203-HHW-2009,South Wake Co Feltonsville HHW Facility,Active,6130 Old Smithfield Road,Apex,Ms. Meghan Baldwin,(919) 856-5698,35.6830108,-78.8436689
+352,Wake,MSW,Trans,9211T-TRANSFER-1990,"Cary, Town of Transfer Station",Active,313 N. Dixon Ave.,Cary,Mr. Robert (Bob) Holden,(919) 469-4388,35.7907676,-78.78966179999999
+353,Wake,TypeI,Compost,9213-COMPOST-1991,"Raleigh, City of Yard Waste Facility",Active,900 N. New Hope Rd,Raleigh,Mr. Stan Joseph,(919) 996-6880,35.7869382,-78.5586989
+354,Wake,MSW,Trans,9215T-TRANSFER-1994,Waste Management Of Raleigh/Durham Transfer Station,Active,10411 GLOBE RD,Morrisville,Mr. TRAVIS MCCLUNG,(919) 389-3362,35.8929286,-78.803276
+355,Wake,MSW,Trans,9217-TRANSFER-1994,WI Garner Transfer Station,Active,3741 Conquest Drive,Garner,Mr. Nicholas Zdeb,(919) 662-7100,35.727445,-78.5696339
+356,Wake,HHW,Collection,9218-HHW-2009,North Wake Co HHW Collection Facility,Active,9037 Deponie Drive,Raleigh,Ms. Meghan Baldwin,(919) 856-5698,35.9051757,-78.57970290000002
+357,Wake,MSW,LF,9222-MSWLF-2008,Wake County South Wake MSWLF,Active,6300 Old Smithfield Road,Apex,Mr. John Roberson,(919) 856-6365,35.6814194,-78.8447452
+358,Wake,LCID,LF,9223-LCID-2010,Buffaloe LCID Landfill & Wood Recycling Facility,Active,5525 Wake Academy Drive,Raleigh,Mr. Tommy Williams,(919) 772-4166,35.7048726,-78.6666331
+359,Wake,LCID,TP,9223-LCID-2010,Buffaloe LCID Landfill & Wood Recycling Facility,Active,5525 Wake Academy Drive,Raleigh,Mr. Tommy Williams,(919) 772-4166,35.7048726,-78.6666331
+360,Wake,MatRecovery,TP,9224-MWP-2012,"Wake Reclamation, LLC",Active,421 Raleigh View Rd,Raleigh,Mr. Donald Plessinger,(919) 557-9583,35.7466793,-78.63388189999999
+361,Wake,CD,LF,9226-CDLF-2020,"Shotwell Landfill, Inc ",Active,4724 Smithfield Road,Wendell,Mrs. Katie Webb,(919) 876-8485,35.72436690000001,-78.43489339999999
+362,Wake,CD,MatRecovery,9226-MWP-2016,Shotwell Landfill Recycling Center,Active,4724 Smithfield Road,Wendell,Mrs. Katie Webb,(919) 876-8485,35.72436690000001,-78.43489339999999
+363,Wake,CD,Trans,9227T-TRANSFER-2012,Raleigh Transfer Station,Active,5565 Thornton Rd,Raleigh,Mr. Karl Regali,(919) 433-0906,35.8996024,-78.5448787
+364,Wake,CD,LF,9228-CDLF-2001,Red Rock Disposal C&D Landfill,Active,7130 New Landfill Drive,Holly Springs,Mr. Donald Plessinger,(919) 557-9583,35.6044096,-78.8973432
+365,Wake,CD,Trans,9229T-TRANSFER-2009,Shotwell Transfer Station II,Active,1506 N Salem Street,Apex,Mrs. Katie Webb,(919) 876-8485,35.74886660000001,-78.8490028
+366,Wake,CD,LF,9230-CDLF-2014,"Greenway Waste Solutions of Apex, LLC",Active,5940 Old Smithfield Rd,Apex,Mr. Grant Kiser,(919) 367-2895,35.6871967,-78.8434181
+367,Wake,TypeI,Compost,9230-COMPOST-,"Greenway Waste Solutions of Apex, LLC",Active,5940 Old Smithfield Rd,Apex,Mr. Grant Kiser,(919) 367-2895,35.6871967,-78.8434181
+368,Wake,CD,LF,9231-CDLF-2012,Brownfield Road C&D Landfill,Active,2600 Brownfield Road,Raleigh,Mr. Donald Plessinger,(919) 557-9583,35.7103883,-78.50431669999999
+369,Wake,MSW,Trans,9233T-TRANSFER-2008,"Raleigh, City of East Wake Transfer Station",Active,820 Corporation Parkway,Raleigh,Mr. John Roberson,(919) 856-6365,35.7901888,-78.569959
+370,Wake,CD,Trans,9234-TRANSFER-2012,"Waste Industries, LLC",Active,9220 Durant Rd,Raleigh,Mr. Donald Plessinger,(919) 557-9583,35.8993751,-78.568403
+371,Wake,TypeIII,Compost,9235-COMPOST-2003,NC State University Compost Facility & Research Cooperative,Active,4231 Inwood Road,Raleigh,Mr. Matt Ball,(919) 830-0766,35.724536,-78.6752028
+372,Wake,CD,Trans,9237T-TRANSFER-2010,"Capital Waste Transfer, LLC",Active,424 Warehouse Drive,Raleigh,Mrs. Katie Webb,(919) 876-8485,35.7521017,-78.632869
+373,Wake,HHW,TP,9239-HHW-2016,Wake HHW Wendell,Active,5051 Wendell Blvd,Zebulon,Ms. Meghan Baldwin,(919) 856-5698,35.7984525,-78.3457754
+374,Wake,CD,MatRecovery,9240-MWP-2017,Elite Waste Services Pristine Water Facility,Active,520 Pristine Water Dr.,Apex,Mr. Brian Kiefer,(919) 704-0312,35.7063372,-78.8261421
+375,Wake,MSW,Trans,9241-TRANSFER-2017,"Morrisville Transfer Station, LLC",Active,230 International Drive,Morrisville,Mrs. Katie Webb,(919) 876-8485,35.8442433,-78.82718469999999
+376,Wake,LCID,LF,92M-LCID-,Wall Recycling LCID Landfill,Active,3000 Gresham Lake Rd,Raleigh,Mr. Dan Jarboe,(919) 906-2747,35.8825242,-78.58666629999999
+377,Wake,LCID,LF,92N-LCID-1986,Currin Brothers Landfill,Active,4525 Sunset Lake Road,Apex,Mr. Glenn Currin,(919) 876-1138,35.6802306,-78.8125961
+378,Wake,LCID,LF,92V-LCID-,Carolina Tree Debris,Active,1417 Old Watkins rd,Raleigh,Mr. Thomas Butler,(919) 880-2852,35.8636163,-78.5056705
+379,Warren,MSW,Trans,9302T-TRANSFER-1995,Warren County Transfer Station,Active,559 Baltimore Road,Warrenton,Mr. Marshall Brothers,(252) 257-1948,36.388038,-78.142399
+380,Washington,Indus,LF,9401-INDUS-2008,"Domtar Paper Company Landfill, Lined #3",Active,Hwy 149 North,Plymouth,Mr. Micheal Clea,(252) 793-8843,35.8580275,-76.7767482
+381,Washington,CD,LF,9404-CDLF-1996,Washington County C&D Landfill,Active,718 Landfill Rd,Roper,Mr. Dennis Brown,(252) 793-5615,35.9185876,-76.6647563
+382,Watauga,LCID,TP,9502-LCID-2016,Watauga County Landclearing,Active,336 Landfill Road,Boone,Mr. Rex Buck,(828) 264-5305,36.2198678,-81.63339060000001
+383,Watauga,HHW,Collection,9503-HHW-2015,Watauga County Permanent HHW Facility,Active,512 Landfill Road,Boone,Mr. Cole Kiziah,(828) 264-5305,36.219416,-81.63146789999999
+384,Watauga,MSW,Trans,9503T-TRANSFER-1996,Watauga Co Transfer Facility,Active,463 Landfill Road,Boone,Mr. Rex Buck,(828) 264-5305,36.2199,-81.631405
+385,Watauga,TypeIII,Compost,9504-COMPOST-2011,Appalachian State University,Active,265 Dale Street,Boone,Mr. Max Alff,(828) 406-2289,36.2056672,-81.6566733
+386,Watauga,TypeIII,Compost,9505-COMPOST-,Triple T Pumping Compost Facility,Active,1372 NC Hwy 194 N,Boone,Mr. Michael Garlock,(828) 265-9005,36.235565,-81.6570519
+387,Wayne,CD,LF,9601-CDLF-1997,Wayne County CDLF,Active,460B SOUTH LANDFILL ROAD,DUDLEY,Mr. Tim Rogers,(919) 689-2994,35.2897906,-78.07147789999999
+388,Wayne,MSW,LF,9606-MSWLF-1998,Wayne County Landfill,Active,460B SOUTH LANDFILL ROAD,DUDLEY,Mr. Tim Rogers,(919) 689-2994,35.2897906,-78.07147789999999
+389,Wayne,MSW,Trans,9607T-TRANSFER-1997,"Goldsboro, City of Transfer Station",Active,905 Brick Street,Goldsboro,Mr. Tomey Jones,(919) 739-7450,35.37594929999999,-78.0135272
+390,Wilkes,Indus,LF,9703-INDUS-1981,Louisiana-Pacific Corporation,Active,1068 ABTCO Road,North Wilkesboro,Mr. Scott Cranston,(336) 696-3483,36.20070219999999,-81.029462
+391,Wilkes,MSW,LF,9704-MSWLF-1993,Wilkes County MSWLF,Active,9219 Elkin Highway,Roaring River,Mrs. Anderia Byrd,(336) 696-5806,36.2076317,-80.98999959999999
+392,Wilson,MSW,Trans,9806T-TRANSFER-1997,Waste Industries Wilson Transfer St.,Active,2810 Contentnea Rd,Wilson,Mr. Michael Lee,(252) 243-6460,35.6870597,-77.9199148
+393,Wilson,MSW,Trans,9808T-TRANSFER-2000,Waste Industries- Blk. Crk. Rd. Transfer,Active,3031 Black Creek Rd,Wilson,Mr. Michael Lee,(252) 243-6460,35.6846216,-77.90500569999999
+394,Wilson,CD,LF,9809-CDLF-,Wilson County Westside C&D Landfill,Active,2400 NC HWY 42 EAST,Wilson,Mr. Andy Davis,(252) 399-2823,35.732156,-77.865574
+395,Wilson,TypeIII,Compost,9810-COMPOST-2016,D&D Septic Compost Facility,Active,7984 Pelt Rd,Stantonsburg,Mr. Daniel Newsome,(919) 920-0368,35.5948107,-77.8765444
+396,Yadkin,MSW,Trans,9903T-TRANSFER-1994,Yadkin County Transfer Facility,Active,1149 Landfill Rd,Yadkinville,Ms. Shannon Harris,(336) 849-7912,36.180147,-80.642586

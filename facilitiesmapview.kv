@@ -1,0 +1,12 @@
+#:import MapView kivy_garden.mapview.MapView
+
+<FacilitiesMapView>:
+    lat: 35.95973994937681
+    lon: -79.06152511756899
+    zoom: 10
+    on_zoom:
+        self.zoom = 10 if self.zoom < 10 else self.zoom
+    on_lat:
+        self.start_getting_facilities_in_fov()
+    on_lon:
+        self.start_getting_facilities_in_fov()

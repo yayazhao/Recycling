@@ -1,0 +1,24 @@
+from kivymd.app import MDApp
+import sqlite3
+from facilitiesmapview import FacilitiesMapView
+from searchpopupmenu import SearchPopupMenu
+
+
+class MainApp(MDApp):
+    connection = None
+    cursor = None
+    search_menu = None
+
+    def on_start(self):
+        self.theme_cls.primary_palette = 'BlueGray'
+
+        # Initialize GPS
+
+        # Connect to database
+        self.connection = sqlite3.connect("facilities.db")
+        self.cursor = self.connection.cursor()
+
+        # Instantiate SearchPopupMenu
+        self.search_menu = SearchPopupMenu()
+
+MainApp().run()
