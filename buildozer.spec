@@ -36,14 +36,14 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy,requests,certifi
+requirements = python3,kivy,requests,certifi,kivy_garden.mapview,urllib3,chardet,idna
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
 
 # (list) Garden requirements
-garden_requirements = mapview
+# garden_requirements = mapview
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
@@ -97,7 +97,7 @@ android.permissions = INTERNET
 #android.sdk = 20
 
 # (str) Android NDK version to use
-#android.ndk = 17c
+#android.ndk = 19b
 
 # (int) Android NDK API to use. This is the minimum API your app will support, it should usually match android.minapi.
 #android.ndk_api = 21
@@ -164,14 +164,14 @@ android.permissions = INTERNET
 # android.add_compile_options = "sourceCompatibility = 1.8", "targetCompatibility = 1.8"
 
 # (list) Gradle repositories to add {can be necessary for some android.gradle_dependencies}
-# please enclose in double quotes 
+# please enclose in double quotes
 # e.g. android.gradle_repositories = "maven { url 'https://kotlin.bintray.com/ktor' }"
 #android.add_gradle_repositories =
 
-# (list) packaging options to add 
+# (list) packaging options to add
 # see https://google.github.io/android-gradle-dsl/current/com.android.build.gradle.internal.dsl.PackagingOptions.html
 # can be necessary to solve conflicts in gradle_dependencies
-# please enclose in double quotes 
+# please enclose in double quotes
 # e.g. android.add_packaging_options = "exclude 'META-INF/common.kotlin_module'", "exclude 'META-INF/*.kotlin_module'"
 #android.add_gradle_repositories =
 
@@ -220,6 +220,10 @@ android.logcat_filters = *:S python:D
 
 # (str) The Android arch to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
 android.arch = armeabi-v7a
+
+# (int) overrides automatic versionCode computation (used in build.gradle)
+# this is not the same as app version and should only be edited if you know what you're doing
+# android.numeric_version = 1
 
 #
 # Python for android (p4a) specific
