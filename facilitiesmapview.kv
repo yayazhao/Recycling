@@ -1,4 +1,6 @@
 #:import MapView kivy_garden.mapview.MapView
+#:import GpsBlinker gpsblinker.GpsBlinker
+#:include gpsblinker.kv
 
 <FacilitiesMapView>:
     lat: 35.95973994937681
@@ -10,3 +12,5 @@
         self.start_getting_facilities_in_fov()
     on_lon:
         self.start_getting_facilities_in_fov()
+    GpsBlinker:
+        id: blinker

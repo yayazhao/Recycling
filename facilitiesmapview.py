@@ -35,9 +35,6 @@ class FacilitiesMapView(MapView):
                 self.add_facility(facility)
 
     def add_facility(self, facility):
-        marker = FacilityMarker(lat=35.95973994937681, lon=-79.06152511756899, source='poi_red.png')
-        self.add_marker(marker)
-
         lat, lon = facility[-2], facility[-1]
         marker = FacilityMarker(lat=lat, lon=lon, source='poi_red.png')
         marker.facility_data = facility

@@ -2,7 +2,7 @@ from kivymd.app import MDApp
 import sqlite3
 from facilitiesmapview import FacilitiesMapView
 from searchpopupmenu import SearchPopupMenu
-
+from gpshelper import GpsHelper
 
 class MainApp(MDApp):
     connection = None
@@ -13,6 +13,7 @@ class MainApp(MDApp):
         self.theme_cls.primary_palette = 'BlueGray'
 
         # Initialize GPS
+        GpsHelper().run()
 
         # Connect to database
         self.connection = sqlite3.connect("facilities.db")
