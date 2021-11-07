@@ -1,6 +1,9 @@
 from kivy.app import App
 from kivy.utils import platform
 from kivymd.uix.dialog import MDDialog
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class GpsHelper():
@@ -12,6 +15,8 @@ class GpsHelper():
         # Get a reference to GpsBlinker, then call blink()
         gps_blinker = App.get_running_app().root.ids.mapview.ids.blinker
         gps_blinker.blink()
+
+        logger.info(f'Platform is {platform}')
 
         # Request permissions on Android
         if platform == 'android':
@@ -39,10 +44,12 @@ class GpsHelper():
         gps_blinker.lat = my_lat
         gps_blinker.lon = my_lon
 
+        logger.info(f'has_centered_map is {self.has_centered_map}')
+
         # Center map on GPS
         if not self.has_centered_map:
-            map = App.get_running_app().root.ids.mapview
-            map.center_on(my_lat, my_lon)
+            my_map = App.get_running_app().root.ids.mapview
+            my_map.center_on(my_lat, my_lon)
             self.has_centered_map = True
 
 
