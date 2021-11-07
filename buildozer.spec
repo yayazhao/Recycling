@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Recycling Facility Finder
+title = Recycling!
 
 # (str) Package name
 package.name = recycling
@@ -46,10 +46,10 @@ requirements = python3,kivy,requests,certifi,kivy_garden.mapview,urllib3,chardet
 # garden_requirements = mapview
 
 # (str) Presplash of the application
-#presplash.filename = %(source.dir)s/data/presplash.png
+presplash.filename = %(source.dir)s/green-recycling.png
 
 # (str) Icon of the application
-#icon.filename = %(source.dir)s/data/icon.png
+icon.filename = %(source.dir)s/green-recycling.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
