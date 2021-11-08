@@ -1,7 +1,7 @@
 from kivymd.uix.dialog import ListMDDialog
 
 class LocationPopupMenu(ListMDDialog):
-    def __init__(self, market_data):
+    def __init__(self, facility_data):
         super().__init__()
 
         # Set all of the fields of market data
@@ -10,5 +10,5 @@ class LocationPopupMenu(ListMDDialog):
 
         for i in range(len(headers)):
             attribute_name = headers[i]
-            attribute_value = market_data[i]
+            attribute_value = facility_data[i]
             setattr(self, attribute_name, str(attribute_value))

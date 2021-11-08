@@ -23,3 +23,4 @@ class MainApp(MDApp):
         self.search_menu = SearchPopupMenu()
 
 MainApp().run()
+
