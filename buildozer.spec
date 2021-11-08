@@ -101,7 +101,7 @@ android.permissions = INTERNET, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION
 android.api = 30
 
 # (int) Minimum API your APK / AAB will support.
-android.minapi = 30
+#android.minapi = 21
 
 # (int) Android SDK version to use
 #android.sdk = 20
