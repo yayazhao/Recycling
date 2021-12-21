@@ -60,7 +60,8 @@ class GpsHelper():
             self.open_gps_access_popup()
 
     def open_gps_access_popup(self):
-        dialog = MDDialog(title='GPS Error', text='You need to enable GPS access for the app to function properly')
-        dialog.size_hint = [.8, .8]
-        dialog.pos_hint = {'center_x': .5, 'center_y': .5}
-        dialog.open()
+        if platform == 'android':
+            dialog = MDDialog(title='GPS Error', text='You need to enable GPS access for the app to function properly')
+            dialog.size_hint = [.8, .8]
+            dialog.pos_hint = {'center_x': .5, 'center_y': .5}
+            dialog.open()
