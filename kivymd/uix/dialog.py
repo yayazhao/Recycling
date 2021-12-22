@@ -83,6 +83,7 @@ class Example(MDApp):
 
 Example().run()
 """
+import webbrowser
 
 from kivy.clock import Clock
 from kivy.lang import Builder
@@ -131,7 +132,6 @@ Builder.load_string(
         height: dp(20)
         padding: dp(20), 0, dp(20), 0
 
-#:import webbrowser webbrowser
 #:import parse urllib.parse
 <ThinLabel@MDLabel>:
     size_hint: 1, None
@@ -151,6 +151,7 @@ Builder.load_string(
 
 <ListMDDialog>
     title: ""
+    id: list_md_dialog
     BoxLayout:
         orientation: 'vertical'
         padding: dp(15)
@@ -197,14 +198,14 @@ Builder.load_string(
                     ThinLabelButton:
                         text: root.lat + ',' + root.lng
                         on_release:
-                            webbrowser.open("https://www.google.com/maps/dir/?api=1&destination=" + self.text + "&travelmode=driving")
+                            list_md_dialog.navigate_using_maps(self.text, 'd')
                 ThinBox:
                     ThinLabel:
                         text: "Walk: "
                     ThinLabelButton:
                         text: root.lat + ',' + root.lng
                         on_release:
-                            webbrowser.open("https://www.google.com/maps/dir/?api=1&destination=" + self.text + "&travelmode=walking")
+                            list_md_dialog.navigate_using_maps(self.text, 'w')
                 ThinBox:
                     ThinLabel:
                         text: "ID: "
@@ -430,6 +431,15 @@ class BaseDialog(ThemableBehavior, ModalView):
                 instance_content_dialog.ids.sep
             )
 
+    def navigate_using_maps(self, address, direction='d'):
+        '''
+            direction: d - drive, w - walk
+        '''
+        if self.device_ios:
+            webbrowser.open("https://maps.apple.com/?daddr=%s&dirflg =%s" % (address, direction))
+        else:
+            mode = "walking" if direction == 'w' else "driving"
+            webbrowser.open("https://www.google.com/maps/dir/?api=1&destination=%s&travelmode=%s" % (address, mode))
 
 class ListMDDialog(BaseDialog):
     ID = StringProperty("Missing data")
