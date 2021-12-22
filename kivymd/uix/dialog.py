@@ -436,7 +436,7 @@ class BaseDialog(ThemableBehavior, ModalView):
             direction: d - drive, w - walk
         '''
         if self.device_ios:
-            url = "maps://?daddr=%s&dirflg =%s" % (address, direction)
+            url = "maps://?daddr=%s&dirflg=%s" % (address, direction)
             print(url)
             webbrowser.open(url)
         else:
