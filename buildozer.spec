@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Recycling!
+title = R3 Navigator
 
 # (str) Package name
 package.name = recycling
@@ -43,10 +43,10 @@ requirements = python3,kivy,requests,certifi,kivy_garden.mapview,urllib3,chardet
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-presplash.filename = %(source.dir)s/green-recycling.png
+presplash.filename = %(source.dir)s/R3NavigatorIcon.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/green-recycling.png
+icon.filename = %(source.dir)s/R3NavigatorIcon.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
