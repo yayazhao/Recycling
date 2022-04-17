@@ -43,10 +43,10 @@ requirements = python3,kivy,requests,certifi,kivy_garden.mapview,urllib3,chardet
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-presplash.filename = %(source.dir)s/R3NavigatorIcon.png
+presplash.filename = %(source.dir)s/R3_loggo.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/R3NavigatorIcon.png
+icon.filename = %(source.dir)s/R3_loggo.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
