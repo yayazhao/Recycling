@@ -27,7 +27,6 @@ class SearchPopupMenu(MDInputDialog):
         if text and '||' in text:
             waste, address = text.split('||')
             App.get_running_app().settings.search_word = waste.strip()
-            App.get_running_app().settings.reset()
             self.geocode_get_lat_lon(address.strip())
 
     def geocode_get_lat_lon(self, address):
@@ -44,8 +43,7 @@ class SearchPopupMenu(MDInputDialog):
         app = App.get_running_app()
         mapview = app.root.ids.mapview
         mapview.center_on(latitude, longitude)
-        App.get_running_app().root.ids.mapview.clear_markers()
-        App.get_running_app().root.ids.mapview.get_facilities_in_fov()
+        App.get_running_app().settings.reset()
 
     def error(self, urlrequest, result):
         print("error")

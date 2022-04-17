@@ -19,12 +19,12 @@ class AppSettings():
         self.recycle_facility_ids = []
         self.donate_facility_ids = []
         self.buy_facility_ids = []
+        App.get_running_app().root.ids.mapview.clear_markers()
+        App.get_running_app().root.ids.mapview.get_facilities_in_fov()
 
     def change_goal(self, goal: Goal):
-        self.reset()
-        App.get_running_app().root.ids.mapview.clear_markers()
         self.goal = goal
-        App.get_running_app().root.ids.mapview.get_facilities_in_fov()
+        self.reset()
 
     def get_facility_ids(self):
         if self.goal == Goal.RECYCLE:

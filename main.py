@@ -33,6 +33,7 @@ class MainApp(MDApp):
 
     def recenter(self):
         self.gps_helper.has_centered_map = False
+        self.settings.reset()
 
 
 MainApp().run()
