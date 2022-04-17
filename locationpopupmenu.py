@@ -5,7 +5,7 @@ class LocationPopupMenu(ListMDDialog):
         super().__init__()
 
         # Set all of the fields of market data
-        headers = "ID,County,Waste,Activity,Permit,Name,Status,Address,City,Contact,Phone,lat,lng"
+        headers = "ID,Name,Phone,Street,City,State,Zip,Lat,Lng"
         headers = headers.split(',')
 
         for i in range(len(headers)):

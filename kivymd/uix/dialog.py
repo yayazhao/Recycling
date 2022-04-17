@@ -196,16 +196,16 @@ Builder.load_string(
                     ThinLabel:
                         text: "Drive: "
                     ThinLabelButton:
-                        text: root.lat + ',' + root.lng
+                        text: 'Navigate'
                         on_release:
-                            list_md_dialog.navigate_using_maps(self.text, 'd')
+                            list_md_dialog.navigate_using_maps(root.Lat + ',' + root.Lng, 'd')
                 ThinBox:
                     ThinLabel:
                         text: "Walk: "
                     ThinLabelButton:
-                        text: root.lat + ',' + root.lng
+                        text: 'Navigate'
                         on_release:
-                            list_md_dialog.navigate_using_maps(self.text, 'w')
+                            list_md_dialog.navigate_using_maps(root.Lat + ',' + root.Lng, 'w')
                 ThinBox:
                     ThinLabel:
                         text: "ID: "
@@ -213,49 +213,9 @@ Builder.load_string(
                         text: root.ID
                 ThinBox:
                     ThinLabel:
-                        text: "County: "
-                    ThinLabel:
-                        text: root.County
-                ThinBox:
-                    ThinLabel:
-                        text: "Waste: "
-                    ThinLabel:
-                        text: root.Waste
-                ThinBox:
-                    ThinLabel:
-                        text: "Activity: "
-                    ThinLabel:
-                        text: root.Activity
-                ThinBox:
-                    ThinLabel:
-                        text: "Permit: "
-                    ThinLabel:
-                        text: root.Permit
-                ThinBox:
-                    ThinLabel:
                         text: "Name: "
                     ThinLabel:
                         text: root.Name
-                ThinBox:
-                    ThinLabel:
-                        text: "Status: "
-                    ThinLabel:
-                        text: root.Status
-                ThinBox:
-                    ThinLabel:
-                        text: "Address: "
-                    ThinLabel:
-                        text: root.Address
-                ThinBox:
-                    ThinLabel:
-                        text: "City: "
-                    ThinLabel:
-                        text: root.City
-                ThinBox:
-                    ThinLabel:
-                        text: "Contact: "
-                    ThinLabel:
-                        text: root.Contact
                 ThinBox:
                     ThinLabel:
                         text: "Phone: "
@@ -263,14 +223,34 @@ Builder.load_string(
                         text: root.Phone
                 ThinBox:
                     ThinLabel:
+                        text: "Street: "
+                    ThinLabel:
+                        text: root.Street
+                ThinBox:
+                    ThinLabel:
+                        text: "City: "
+                    ThinLabel:
+                        text: root.City
+                ThinBox:
+                    ThinLabel:
+                        text: "State: "
+                    ThinLabel:
+                        text: root.State
+                ThinBox:
+                    ThinLabel:
+                        text: "Zip: "
+                    ThinLabel:
+                        text: root.Zip
+                ThinBox:
+                    ThinLabel:
                         text: "Latitude: "
                     ThinLabel:
-                        text: root.lat
+                        text: root.Lat
                 ThinBox:
                     ThinLabel:
                         text: "Longitude: "
                     ThinLabel:
-                        text: root.lng
+                        text: root.Lng
         MDSeparator:
             id: sep
 
@@ -445,18 +425,14 @@ class BaseDialog(ThemableBehavior, ModalView):
 
 class ListMDDialog(BaseDialog):
     ID = StringProperty("Missing data")
-    County = StringProperty("Missing data")
-    Waste = StringProperty("Missing data")
-    Activity = StringProperty("Missing data")
-    Permit = StringProperty("Missing data")
     Name = StringProperty("Missing data")
-    Status = StringProperty("Missing data")
-    Address = StringProperty("Missing data")
-    City = StringProperty("Missing data")
-    Contact = StringProperty("Missing data")
     Phone = StringProperty("Missing data")
-    lat = StringProperty("Missing data")
-    lng = StringProperty("Missing data")
+    Street = StringProperty("Missing data")
+    City = StringProperty("Missing data")
+    State = StringProperty("Missing data")
+    Zip = StringProperty("Missing data")
+    Lat = StringProperty("Missing data")
+    Lng = StringProperty("Missing data")
 
 
 class MDInputDialog(BaseDialog):

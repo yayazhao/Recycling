@@ -6,11 +6,15 @@ import certifi
 from kivy.clock import Clock
 
 class SearchPopupMenu(MDInputDialog):
-    title = 'Search by Address'
+    title = 'Type in Waste and Address separated by || then Search'
+    hint_text = '''Waste Keyword e.g. plastic ; Address e.g. Charlotte, NC'''
     text_button_ok = 'Search'
+    text_button_cancel = 'Cancel'
+    auto_dismiss = False
 
     def __init__(self):
         super().__init__()
+        self.hint_text = '''Waste Keyword e.g. plastic || Address e.g. Charlotte, NC'''
         self.size_hint = [.9, .3]
         self.events_callback = self.callback
 
@@ -19,8 +23,12 @@ class SearchPopupMenu(MDInputDialog):
         Clock.schedule_once(self.set_field_focus, 0.5)
 
     def callback(self, *args):
-        address = self.text_field.text
-        self.geocode_get_lat_lon(address)
+        text = self.text_field.text
+        if text and '||' in text:
+            waste, address = text.split('||')
+            App.get_running_app().settings.search_word = waste.strip()
+            App.get_running_app().settings.reset()
+            self.geocode_get_lat_lon(address.strip())
 
     def geocode_get_lat_lon(self, address):
         with open('api_key.txt', 'r') as f:
@@ -36,6 +44,8 @@ class SearchPopupMenu(MDInputDialog):
         app = App.get_running_app()
         mapview = app.root.ids.mapview
         mapview.center_on(latitude, longitude)
+        App.get_running_app().root.ids.mapview.clear_markers()
+        App.get_running_app().root.ids.mapview.get_facilities_in_fov()
 
     def error(self, urlrequest, result):
         print("error")

@@ -2,9 +2,17 @@
 
 BoxLayout:
     orientation: 'vertical'
-    MDToolbar:
-        title: "Facility/Business Finder"
-        right_action_items: [['magnify', lambda x: app.search_menu.open()]]
-        md_bg_color: app.theme_cls.primary_color
     FacilitiesMapView:
         id: mapview
+    MDToolbar:
+        id: bottom_toolbar
+        title: "R3 Navigator"
+        right_action_items:
+            [
+            ["set-center", lambda x: app.recenter(), "Message reply", "Message reply"],
+            ["shopping", lambda x: app.change_goal(1), "Message star", "Message star"],
+            ["sale", lambda x: app.change_goal(2), "Message question", "Message question"],
+            ["recycle", lambda x: app.change_goal(3), "Message reply", "Message reply"],
+            ['magnify', lambda x: app.search_menu.open(), "Search", "Search"],
+            ]
+

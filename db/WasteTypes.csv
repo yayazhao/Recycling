@@ -1,0 +1,418 @@
+Category,Waste,Key
+Plastic,#1 Plastic Bags,Plastic#1Bags
+Plastic,#1 Plastic Beverage Bottles,Plastic#1BeverageBottles
+Plastic,#1 Plastic Clamshells,Plastic#1Clamshells
+Plastic,#1 Plastic Film,Plastic#1Film
+Plastic,#1 Plastic Non-Beverage Bottles,Plastic#1NonBeverageBottles
+Plastic,#1 Plastic Trays,Plastic#1Trays
+Plastic,#1 Rigid Plastics,Plastic#1Rigids
+Plastic,#2 Plastic Bags,Plastic#2Bags
+Plastic,#2 Plastic Bottles,Plastic#2Bottles
+Plastic,#2 Plastic Caps,Plastic#2Caps
+Plastic,#2 Plastic Clamshells,Plastic#2Clamshells
+Plastic,#2 Plastic Film,Plastic#2Film
+Plastic,#2 Plastic Jugs - Clear,Plastic#2JugsClear
+Plastic,#2 Plastic Jugs - Colored,Plastic#2JugsColored
+Plastic,#2 Rigid Plastics,Plastic#2Rigids
+Plastic,#3 Plastic Bags,Plastic#3Bags
+Plastic,#3 Plastic Bottles,Plastic#3Bottles
+Plastic,#3 Plastic Film,Plastic#3Film
+Plastic,#3 Rigid Plastics,Plastic#3Rigids
+Plastic,#4 Flexible Plastics,Plastic#4Flexibles
+Plastic,#4 Plastic Bags,Plastic#4Bags
+Plastic,#4 Plastic Bottles,Plastic#4Bottles
+Plastic,#4 Plastic Film,Plastic#4Film
+Plastic,#4 Rigid Plastics,Plastic#4Rigids
+Plastic,#5 Plastic Bags,Plastic#5Bags
+Plastic,#5 Plastic Bottles,Plastic#5Bottles
+Plastic,#5 Plastic Caps,Plastic#5Caps
+Plastic,#5 Plastic Clamshells,Plastic#5Clamshells
+Plastic,#5 Plastic Cups,Plastic#5Cups
+Plastic,#5 Plastic Film,Plastic#5Film
+Plastic,#5 Rigid Plastics,Plastic#5Rigids
+Plastic,#6 Plastic - Expanded,Plastic#6Expanded
+Plastic,#6 Plastic Bags,Plastic#6Bags
+Plastic,#6 Plastic Bottles,Plastic#6Bottles
+Plastic,#6 Plastic Clamshells - Expanded,Plastic#6ClamshellsExpanded
+Plastic,#6 Plastic Cups,Plastic#6Cups
+Plastic,#6 Plastic Cups - Expanded,Plastic#6CupsExpanded
+Plastic,#6 Plastic Film,Plastic#6Film
+Plastic,#6 Plastic Peanuts,Plastic#6Peanuts
+Plastic,#6 Rigid Plastics,Plastic#6Rigids
+Plastic,#7 Plastic Bags,Plastic#7Bags
+Plastic,#7 Plastic Bottles,Plastic#7Bottles
+Plastic,#7 Plastic Film,Plastic#7Film
+Plastic,#7 Rigid Plastics,Plastic#7Rigids
+Hazardous,Acids,HazardAcids
+Hazardous,Adhesives,HazardAdhesives
+Household,Adult Toys,HouseAdultToys
+Hazardous,Aerosol Cans - Full,HazardAerosolCansFull
+Metals,Aerosol Cans - Full,MetalAerosolCansFull
+Hazardous,Air Conditioners,HazardAirConditioners
+Batteries,Alkaline Batteries,BatAlkaline
+Metals,Aluminum Beverage Cans,MetalAluminumBeverageCans
+Metals,Aluminum Foil,MetalAluminumFoil
+Metals,Aluminum Food Cans,MetalAluminumFoodCans
+Metals,Aluminum Pie Plates,MetalAluminumPiePlates
+Metals,Aluminum Trays,MetalAluminumTrays
+Hazardous,Ammunition,HazardAmmunition
+Automotive,Antifreeze,AutoAntifreeze
+Hazardous,Antifreeze,HazardAntifreeze
+Household,Arts and Crafts Supplies,HouseArtsAndCraftsSupplies
+Hazardous,Asbestos,HazardAsbestos
+Construction,Asphalt,ConstAsphalt
+Electronics,Audio Equipment,ElectrAudioEquipment
+Automotive,Auto Bodies,AutoBodies
+Automotive,Auto Parts,AutoParts
+Household,Baby Products,HouseBabyProducts
+Household,Barbeque Grills,HouseBarbequeGrills
+Automotive,Bicycles,AutoBicycles
+Household,Bicycles,HouseBicycles
+Automotive,Bike Tires,AutoBikeTires
+Household,Bike Tires,HouseBikeTires
+Glass,Blue Glass Beverage Containers,GlassBlueBeverageContainers
+Glass,Blue Glass Containers,GlassBlueContainers
+Electronics,Blu-Ray Players,ElectrBluRayPlayers
+Paper,Booklets,PaperBooklets
+Electronics,Boomboxes,ElectrBoomboxes
+Automotive,Brake Fluid,AutoBrakeFluid
+Hazardous,Brake Fluid,HazardBrakeFluid
+Garden,Branches,GardenBranches
+Construction,Brick,ConstBrick
+Glass,Brown Glass Beverage Containers,GlassBrownBeverageContainers
+Glass,Brown Glass Containers,GlassBrownContainers
+Garden,Brush,GardenBrush
+Batteries,Button Cell Batteries,BatButtonCell
+Hazardous,Button Cell Batteries,HazardButtonCellBatteries
+Electronics,Cables,ElectrCables
+Electronics,Calculators,ElectrCalculators
+Household,Candy Wrappers,HouseCandyWrappers
+Automotive,Car Batteries,AutoCarBatteries
+Batteries,Car Batteries,BatCar
+Hazardous,Car Batteries,HazardCarBatteries
+Automotive,Car Fluids,AutoCarFluids
+Hazardous,Car Fluids,HazardCarFluids
+Construction,Carpet,ConstCarpet
+Household,Carpet,HouseCarpet
+Construction,Carpet Padding,ConstCarpetPadding
+Household,Carpet Padding,HouseCarpetPadding
+Electronics,Cassette Players,ElectrCassettePlayers
+Electronics,Cassette Tapes,ElectrCassetteTapes
+Household,CD Cases,HouseCDCases
+Plastic,CD Cases,PlasticCDCases
+Electronics,CD Players,ElectrCDPlayers
+Electronics,CDs,ElectrCDs
+Construction,Ceiling Tiles,ConstCeilingTiles
+Electronics,Cell Phone Accessories,ElectrCellPhoneAccessories
+Electronics,Cell Phones,ElectrCellPhones
+Construction,Ceramic Tile,ConstCeramicTile
+Hazardous,CFLs,HazardCFLs
+Hazardous,Chemistry Sets,HazardChemistrySets
+Household,Chemistry Sets,HouseChemistrySets
+Household,Chip Bags,HouseChipBags
+Garden,Christmas Trees,GardenChristmasTrees
+Household,Cigarettes,HouseCigarettes
+Glass,Clear Glass Beverage Containers,GlassClearBeverageContainers
+Glass,Clear Glass Containers,GlassClearContainers
+Household,Clothing,HouseClothing
+Plastic,Compostable Plastics,PlasticCompostables
+Electronics,Computer Peripherals - External,ElectrComputerPeripheralsExternal
+Electronics,Computer Peripherals - Internal,ElectrComputerPeripheralsInternal
+Construction,Concrete,ConstConcrete
+Construction,Construction Debris,ConstDebris
+Construction,Construction Materials,ConstMaterials
+Construction,Contaminated Soil,ConstContaminatedSoil
+Hazardous,Contaminated Soil,HazardContaminatedSoil
+Construction,Contaminated Wood,ConstContaminatedWood
+Hazardous,Contaminated Wood,HazardContaminatedWood
+Hazardous,Controlled Substances,HazardControlledSubstances
+Household,Controlled Substances,HouseControlledSubstances
+Hazardous,Cooking Oil,HazardCookingOil
+Household,Cooking Oil,HouseCookingOil
+Household,Cookware,HouseCookware
+Household,Corks,HouseCorks
+Paper,Corrugated Cardboard,PaperCorrugatedCardboard
+Household,Crayons,HouseCrayons
+Electronics,CRT Computer Monitors,ElectrCRTComputerMonitors
+Electronics,CRT Televisions,ElectrCRTTelevisions
+Electronics,Curling Irons,ElectrCurlingIrons
+Electronics,Dehumidifiers,ElectrDehumidifiers
+Electronics,Desktop Computers,ElectrDesktopComputers
+Electronics,Digital Cameras,ElectrDigitalCameras
+Construction,Dirt,ConstDirt
+Garden,Dirt,GardenDirt
+Construction,Doors,ConstDoors
+Paper,Drink Boxes,PaperDrinkBoxes
+Household,Drink Pouches,HouseDrinkPouches
+Electronics,DVD Players,ElectrDVDPlayers
+Electronics,DVDs,ElectrDVDs
+Electronics,Electronic Servers,ElectrElectronicServers
+Automotive,Engine Degreasers,AutoEngineDegreasers
+Hazardous,Engine Degreasers,HazardEngineDegreasers
+Paper,Envelopes,PaperEnvelopes
+Hazardous,Exit Signs,HazardExitSigns
+Hazardous,Explosives,HazardExplosives
+Household,Eyeglasses,HouseEyeglasses
+Household,Fabric,HouseFabric
+Metals,Ferrous Metals,MetalFerrousMetals
+Hazardous,Fertilizers,HazardFertilizers
+Construction,Fiberglass,ConstFiberglass
+Hazardous,Fire Extinguishers,HazardFireExtinguishers
+Household,Flip-Flops,HouseFlipFlops
+Electronics,Floppy Disks,ElectrFloppyDisks
+Hazardous,Fluorescent Tubes,HazardFluorescentTubes
+Hazardous,Freezers,HazardFreezers
+Household,Freezers,HouseFreezers
+Hazardous,Fungicides,HazardFungicides
+Electronics,Game Consoles,ElectrGameConsoles
+Household,Garden Tools,HouseGardenTools
+Plastic,Garden Tools,PlasticGardenTools
+Hazardous,Gas Cylinders,HazardGasCylinders
+Automotive,Gas/Oil Mixture,AutoGasOilMixture
+Hazardous,Gas/Oil Mixture,HazardGasOilMixture
+Automotive,Gasoline,AutoGasoline
+Hazardous,Gasoline,HazardGasoline
+Household,Gift Bags,HouseGiftBags
+Household,Glue Sticks,HouseGlueSticks
+Plastic,Glue Sticks,PlasticGlueSticks
+Electronics,GPS Systems,ElectrGPSSystems
+Garden,Grass Clippings,GardenGrassClippings
+Glass,Green Glass Beverage Containers,GlassGreenBeverageContainers
+Glass,Green Glass Containers,GlassGreenContainers
+Construction,Gypsum Drywall,ConstGypsumDrywall
+Household,Hair,HouseHair
+Hazardous,Hair Dye,HazardHairDye
+Household,Hair Dye,HouseHairDye
+Hazardous,Hair Spray,HazardHairSpray
+Household,Hair Spray,HouseHairSpray
+Household,Halogen Bulbs,HouseHalogenBulbs
+Electronics,Hard Drives,ElectrHardDrives
+Construction,Hardware,ConstHardware
+Garden,Hay,GardenHay
+Household,Heaters,HouseHeaters
+Hazardous,Herbicides,HazardHerbicides
+Hazardous,HHW,HazardHHW
+Garden,Holiday Greens,GardenHolidayGreens
+Electronics,Home Electronics,ElectrHomeElectronics
+Hazardous,Household Cleaners,HazardHouseholdCleaners
+Household,Household Cleaners,HouseHouseholdCleaners
+Construction,Household Furniture,ConstHouseholdFurniture
+Household,Household Furniture,HouseHouseholdFurniture
+Electronics,Hoverboards,ElectrHoverboards
+Electronics,Humidifiers,ElectrHumidifiers
+Automotive,Hydraulic Fluid,AutoHydraulicFluid
+Hazardous,Hydraulic Fluid,HazardHydraulicFluid
+Household,Incandescent Lightbulbs,HouseIncandescentLightbulbs
+Electronics,Inkjet Cartridges,ElectrInkjetCartridges
+Automotive,Innertubes,AutoInnertubes
+Hazardous,Insecticides,HazardInsecticides
+Hazardous,Items Containing Mercury,HazardItemsContainingMercury
+Hazardous,Kerosene,HazardKerosene
+Household,Kerosene,HouseKerosene
+Hazardous,Lacquer,HazardLacquer
+Paint,Lacquer,PaintLacquer
+Electronics,Laptop Computers,ElectrLaptopComputers
+Household,Latex Foam Pillows,HouseLatexFoamPillows
+Hazardous,Latex Paint,HazardLatexPaint
+Paint,Latex Paint,PaintLatexPaint
+Electronics,LCD Computer Monitors,ElectrLCDComputerMonitors
+Electronics,LCD Televisions,ElectrLCDTelevisions
+Hazardous,Lead Paint Chips,HazardLeadPaintChips
+Paint,Lead Paint Chips,PaintLeadPaintChips
+Batteries,Lead-acid Batteries - Non-automotive,BatLeadAcidNonAuto
+Hazardous,Lead-acid Batteries - Non-automotive,HazardLeadAcidBatteriesNonAutomotive
+Garden,Leaves,GardenLeaves
+Hazardous,Lice Shampoo,HazardLiceShampoo
+Household,Lice Shampoo,HouseLiceShampoo
+Construction,Light Fixtures,ConstLightFixtures
+Hazardous,Lighter Fluid,HazardLighterFluid
+Household,Lighter Fluid,HouseLighterFluid
+Construction,Lighting Ballasts,ConstLightingBallasts
+Hazardous,Lighting Ballasts,HazardLightingBallasts
+Household,Linens,HouseLinens
+Construction,Linoleum,ConstLinoleum
+Batteries,Lithium Batteries,BatLithium
+Batteries,Lithium-ion Batteries,BatLithiumIon
+Hazardous,Lithium-ion Batteries,HazardLithiumIonBatteries
+Construction,Lumber,ConstLumber
+Paper,Magazines,PaperMagazines
+Plastic,Mannequins,PlasticMannequins
+Plastic,Mannequins,PlasticMannequins
+Garden,Manure,GardenManure
+Automotive,Marine Batteries,AutoMarineBatteries
+Batteries,Marine Batteries,BatMarine
+Construction,Mattresses,ConstMattresses
+Household,Mattresses,HouseMattresses
+Electronics,Medical Equipment - Handheld,ElectrMedicalEquipmentHandheld
+Hazardous,Medical Equipment - Handheld,HazardMedicalEquipmentHandheld
+Electronics,Medical Equipment - Large,ElectrMedicalEquipmentLarge
+Hazardous,Medical Sharps,HazardMedicalSharps
+Plastic,Medication Containers,PlasticMedicationContainers
+Hazardous,Medications,HazardMedications
+Hazardous,Mercury Thermostats,HazardMercuryThermostats
+Household,Metal Clothes Hangers,HouseMetalClothesHangers
+Metals,Metal Paint Cans,MetalMetalPaintCans
+Metals,Metal Tags,MetalMetalTags
+Electronics,Microwaves,ElectrMicrowaves
+Paper,Mixed Paper,PaperMixedPaper
+Automotive,Motor Oil,AutoMotorOil
+Hazardous,Motor Oil,HazardMotorOil
+Automotive,Motor Oil Containers,AutoMotorOilContainers
+Plastic,Motor Oil Containers,PlasticMotorOilContainers
+Electronics,MP3 Players,ElectrMP3Players
+Household,Musical Instruments - Metal,HouseMusicalInstrumentsMetal
+Household,Musical Instruments - Non-metal,HouseMusicalInstrumentsNonMetal
+Hazardous,Nail Polish,HazardNailPolish
+Household,Nail Polish,HouseNailPolish
+Hazardous,Nail Polish Removers,HazardNailPolishRemovers
+Construction,Neon Lights,ConstNeonLights
+Paper,Newspaper,PaperNewspaper
+Batteries,Nickel-cadmium Batteries,BatNickelCadmium
+Hazardous,Nickel-cadmium Batteries,HazardNickelCadmiumBatteries
+Batteries,Nickel-metal Hydride Batteries,BatNickelMetalHydride
+Hazardous,Nickel-metal Hydride Batteries,HazardNickelMetalHydrideBatteries
+Batteries,Nickel-zinc Batteries,BatNickelZinc
+Hazardous,Nickel-zinc Batteries,HazardNickelZincBatteries
+Metals,Nonferrous Metals,MetalNonferrousMetals
+Garden,Non-Organic Food Waste,GardenNonOrganicFoodWaste
+Household,Non-Organic Food Waste,HouseNonOrganicFoodWaste
+Construction,Office Furniture,ConstOfficeFurniture
+Electronics,Office Machines,ElectrOfficeMachines
+Paper,Office Paper,PaperOfficePaper
+Household,Office Supplies,HouseOfficeSupplies
+Automotive,Oil Filters,AutoOilFilters
+Hazardous,Oil Filters,HazardOilFilters
+Hazardous,Oil-Based Paint,HazardOilBasedPaint
+Paint,Oil-Based Paint,PaintOil-BasedPaint
+Garden,Organic Food Waste,GardenOrganicFoodWaste
+Household,Ornaments,HouseOrnaments
+Electronics,Pagers,ElectrPagers
+Hazardous,Paint Strippers,HazardPaintStrippers
+Paint,Paint Strippers,PaintPaintStrippers
+Hazardous,Paint Thinners,HazardPaintThinners
+Paint,Paint Thinners,PaintPaintThinners
+Construction,Pallets,ConstPallets
+Paper,Paper Bags,PaperPaperBags
+Paper,Paper Cups,PaperPaperCups
+Paper,Paper Labels,PaperPaperLabels
+Electronics,Paper Shredders,ElectrPaperShredders
+Paper,Paper Sleeves,PaperPaperSleeves
+Paper,Paperback Books,PaperPaperbackBooks
+Paper,Paperboard,PaperPaperboard
+Hazardous,Perfumes,HazardPerfumes
+Plastic,Pesticide Containers,PlasticPesticideContainers
+Hazardous,Pesticides,HazardPesticides
+Paper,Phone Books,PaperPhoneBooks
+Hazardous,Photographic Chemicals,HazardPhotographicChemicals
+Household,Pizza Boxes,HousePizzaBoxes
+Plastic,Plastic Bottle Accessories,PlasticBottleAccessories
+Household,Plastic Buckets,HousePlasticBuckets
+Plastic,Plastic Buckets,PlasticBuckets
+Plastic,Plastic Cards,PlasticCards
+Plastic,Plastic Egg Cartons,PlasticEggCartons
+Household,Plastic Furniture,HousePlasticFurniture
+Plastic,Plastic Furniture,PlasticFurniture
+Plastic,Plastic Packing Materials,PlasticPackingMaterials
+Plastic,Plastic Paint Cans,PlasticPaintCans
+Household,Plastic Plant Materials,HousePlasticPlantMaterials
+Plastic,Plastic Plant Materials,PlasticPlantMaterials
+Household,Plastic Playsets,HousePlasticPlaysets
+Plastic,Plastic Playsets,PlasticPlaysets
+Hazardous,Pool Chemicals,HazardPoolChemicals
+Construction,Porcelain Products,ConstPorcelainProducts
+Automotive,Power Steering Fluid,AutoPowerSteeringFluid
+Hazardous,Power Steering Fluid,HazardPowerSteeringFluid
+Electronics,Power Tools,ElectrPowerTools
+Electronics,Printers,ElectrPrinters
+Electronics,Projectors,ElectrProjectors
+Hazardous,Propane Tanks,HazardPropaneTanks
+Automotive,Radiators,AutoRadiators
+Electronics,Receivers,ElectrReceivers
+Electronics,Record Players,ElectrRecordPlayers
+Hazardous,Refrigerators,HazardRefrigerators
+Household,Refrigerators,HouseRefrigerators
+Metals,Refrigerators,MetalRefrigerators
+Automotive,Road Flares,AutoRoadFlares
+Hazardous,Road Flares,HazardRoadFlares
+Construction,Roofing Materials,ConstRoofingMaterials
+Construction,Sand,ConstSand
+Construction,Sawdust,ConstSawdust
+Electronics,Scanners,ElectrScanners
+Hazardous,Sealers,HazardSealers
+Construction,Shingles,ConstShingles
+Household,Shoes,HouseShoes
+Batteries,Silver-oxide Batteries,BatSilverOxide
+Hazardous,Silver-oxide Batteries,HazardSilverOxideBatteries
+Plastic,Six-pack Rings,PlasticSixPackRings
+Electronics,Small Appliances,ElectrSmallAppliances
+Hazardous,Smoke Detectors,HazardSmokeDetectors
+Hazardous,Solvents,HazardSolvents
+Household,Sporting Goods,HouseSportingGoods
+Metals,Steel Cans,MetalSteelCans
+Metals,Steel Lids,MetalSteelLids
+Construction,Stone,ConstStone
+Household,String Lights,HouseStringLights
+Garden,Stumps,GardenStumps
+Household,Surfboards,HouseSurfboards
+Household,Synthetic Cork,HouseSyntheticCork
+Electronics,Tablets,ElectrTablets
+Electronics,Telephones,ElectrTelephones
+Electronics,Television Accessories,ElectrTelevisionAccessories
+Household,Tennis Balls,HouseTennisBalls
+Construction,Tile,ConstTile
+Automotive,Tires,AutoTires
+Electronics,Toasters,ElectrToasters
+Electronics,Toner Cartridges,ElectrTonerCartridges
+Construction,Tools,ConstTools
+Household,Toothbrushes,HouseToothbrushes
+Plastic,Toothbrushes,PlasticToothbrushes
+Household,Toothpaste Tubes,HouseToothpasteTubes
+Household,Toys,HouseToys
+Automotive,Transmission Fluid,AutoTransmissionFluid
+Hazardous,Transmission Fluid,HazardTransmissionFluid
+Household,Trophies,HouseTrophies
+Automotive,Truck Tires,AutoTruckTires
+Electronics,Two-Way Radios,ElectrTwoWayRadios
+Electronics,Typewriters,ElectrTypewriters
+Plastic,Tyvek Envelopes,PlasticTyvekEnvelopes
+Electronics,Vacuum Cleaners,ElectrVacuumCleaners
+Hazardous,Varnish,HazardVarnish
+Paint,Varnish,PaintVarnish
+Electronics,VCRs,ElectrVCRs
+Automotive,Vehicles,AutoVehicles
+Electronics,Video Game Cartridges,ElectrVideoGameCartridges
+Electronics,Video Game Peripherals,ElectrVideoGamePeripherals
+Electronics,Video Tapes,ElectrVideoTapes
+Electronics,Vinyl Records,ElectrVinylRecords
+Household,Washer/Dryers,HouseWasherDryers
+Metals,Washer/Dryers,MetalWasherDryers
+Plastic,Water Filters,PlasticWaterFilters
+Garden,Weeds,GardenWeeds
+Paper,Wet-strength Paperboard,PaperWetStrengthPaperboard
+Construction,Windows,ConstWindows
+Construction,Wood,ConstWood
+Garden,Wood,GardenWood
+Garden,Wood Chips,GardenWoodChips
+Construction,Wood Furnishings,ConstWoodFurnishings
+Hazardous,Wood Stains,HazardWoodStains
+Paint,Wood Stains,PaintWoodStains
+Hazardous,X-rays,HazardXRays
+Garden,Yard Waste,GardenYardWaste
+Household,Yoga Mats,HouseYogaMats
+Batteries,Zinc-air Batteries,BatZincAir
+Batteries,Zinc-carbon Batteries,BatZincCarbon
+Hazardous,Inkjet Cartridges,HazardInkjetCartridges
+Hazardous,Toner Cartridges,HazardTonerCartridges
+Hazardous,Medical Waste,Medical
+Construction,Construction and Demolition (C&D),CD
+Municipal,Municipal Solid Waste,MSW
+Garden,Land Clearing and Inert Debris,LCID
+General,Type III Waste,TypeIII
+Hazardous,Household Hazardous Wastes,HHW
+General,Type I Waste,TypeI
+General,Material Recovery,MatRecovery
+General,Industrial Waste,Indus
+General,Type IV Waste,TypeIV
+General,Coal Combustion Residuals,CCR
+General,Type II Waste,TypeII
+Garden,Yard Waste,YW
