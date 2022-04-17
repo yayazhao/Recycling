@@ -2,6 +2,8 @@
 
 BoxLayout:
     orientation: 'vertical'
+    FacilitiesMapView:
+        id: mapview
     MDToolbar:
         id: bottom_toolbar
         title: "R3 Navigator"
@@ -15,7 +17,4 @@ BoxLayout:
             ["recycle", lambda x: app.change_goal(3), 'Recycle'],
             ['magnify', lambda x: app.search_menu.open(), 'Search'],
             ]
-    FacilitiesMapView:
-        id: mapview
-
 
