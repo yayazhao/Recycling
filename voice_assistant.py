@@ -3,8 +3,7 @@ import time
 import playsound as ps
 import speech_recognition as sr
 from gtts import gTTS
-import threading
-import psutil
+from kivy.app import App
 
 SOUND_FILE = {
     'greeting': 'sound_greeting.mp3',
@@ -32,18 +31,39 @@ def get_audio():
     return said.lower()
 
 
-class VoiceAssistant(threading.Thread):
+class VoiceAssistant():
     stop = False
+    wastes = []
     def run(self):
         say('greeting')
+        print('I am ready')
+        count = 0
         while True:
-            if self.stop:
-                say('bye')
-                print('I am off')
+            try:
+                count += 1
+                if count > 1:
+                    break
+                print(count)
+                _text = get_audio()
+                print(_text)
+                for waste in self.wastes:
+                    if _text in waste.lower():
+                        say('search')
+                        App.get_running_app().settings.search_word = _text.strip()
+                        App.get_running_app().settings.reset()
+                        self.stop = True
+                        break
+                if not self.stop:
+                    print('Ask again')
+                    say('again')
+                    _text = get_audio()
+                else:
+                    say('bye')
+                    print('I am off')
+                    break
+            except Exception as e:
+                print(str(e))
                 break
-            print('I am ready')
-            _text = get_audio()
-            print(_text)
 
 # if __name__ == '__main__':
 #     speak('Hello, how are you? What can I do for you?', 'sound_greeting.mp3')

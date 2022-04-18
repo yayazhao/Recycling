@@ -6,12 +6,14 @@ from searchpopupmenu import SearchPopupMenu
 from gpshelper import GpsHelper
 from voice_assistant import VoiceAssistant
 
+
 class MainApp(MDApp):
     r3dao = None
     search_menu = None
     settings = None
     gps_helper = None
     va = None
+    msg_queue = None
 
     def on_start(self):
         self.theme_cls.primary_palette = 'BlueGray'
@@ -42,9 +44,10 @@ class MainApp(MDApp):
     def flip_va(self):
         print('Toggle voice assistant')
         if not self.va:
-            self.va = VoiceAssistant(daemon=True)
-            self.va.start()
-        else:
+            self.va = VoiceAssistant()
+            self.va.wastes.extend(['paper', 'car', 'printer', 'laptop', 'desktop', 'computer', 'toy'])
+            self.va.run()
+        if self.va.stop:
             self.va.stop = True
             del self.va
             self.va = None
