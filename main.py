@@ -4,12 +4,14 @@ from app_settings import AppSettings, Goal
 from facilitiesmapview import FacilitiesMapView
 from searchpopupmenu import SearchPopupMenu
 from gpshelper import GpsHelper
+from voice_assistant import VoiceAssistant
 
 class MainApp(MDApp):
     r3dao = None
     search_menu = None
     settings = None
     gps_helper = None
+    va = None
 
     def on_start(self):
         self.theme_cls.primary_palette = 'BlueGray'
@@ -27,6 +29,8 @@ class MainApp(MDApp):
         # Instantiate SearchPopupMenu
         self.search_menu = SearchPopupMenu()
 
+
+
     def change_goal(self, goal: int):
         goal = Goal.BUY if goal == 1 else Goal.DONATE if goal == 2 else Goal.RECYCLE
         self.settings.change_goal(goal)
@@ -35,6 +39,14 @@ class MainApp(MDApp):
         self.gps_helper.has_centered_map = False
         self.settings.reset()
 
+    def flip_va(self):
+        print('Toggle voice assistant')
+        if not self.va:
+            self.va = VoiceAssistant(daemon=True)
+            self.va.start()
+        else:
+            self.va.stop = True
+            self.va = None
 
 MainApp().run()
 
