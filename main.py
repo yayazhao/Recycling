@@ -46,7 +46,9 @@ class MainApp(MDApp):
             self.va.start()
         else:
             self.va.stop = True
+            del self.va
             self.va = None
+
 
 MainApp().run()
 
